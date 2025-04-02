@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data & model artifacts
+data/dialogstudio_modified/
+data/annotations/
+models/finetuning/checkpoints/
+models/eval/results/
+*.ckpt
+*.pt
+*.bin
+*.h5
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Credentials (create a .env file to load them securely)
+.env
+openai_key.txt
