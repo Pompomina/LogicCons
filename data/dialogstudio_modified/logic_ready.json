@@ -1,0 +1,6070 @@
+[
+  {
+    "dialogue_id": "SSNG0007.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I am looking for a Chinese place in the centre."
+      },
+      {
+        "role": "system",
+        "utterance": "I have 10 restaurants matching your request. Did you have a price range you would like?"
+      },
+      {
+        "role": "user",
+        "utterance": "No, it doesn't matter."
+      },
+      {
+        "role": "system",
+        "utterance": "Would you like for it to have a certain number of stars?"
+      },
+      {
+        "role": "user",
+        "utterance": "No just book at a chinese place in the centre. I need a table for 4 at 15:00 on wednesday please."
+      },
+      {
+        "role": "system",
+        "utterance": "I have you at Jinling Noodle bar then, reference is OCNH3CJJ . Anything else you need?"
+      },
+      {
+        "role": "user",
+        "utterance": "No that is it. Thank you."
+      },
+      {
+        "role": "system",
+        "utterance": "Have a great day!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "SNG1161.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "i want to book a taxi. The taxi should leave after 02:30 and should go to Norwich train station."
+      },
+      {
+        "role": "system",
+        "utterance": "I can definitely help you with that. Where will you be departing from?"
+      },
+      {
+        "role": "user",
+        "utterance": "I will be departing from jesus college."
+      },
+      {
+        "role": "system",
+        "utterance": "I have booked you a grey Audi. The contact number is 07597249308. What else may I help you with?"
+      },
+      {
+        "role": "user",
+        "utterance": "that's is all i wanted for today, thanks"
+      },
+      {
+        "role": "system",
+        "utterance": "Thanks and have a nice day."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "MUL1443.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I'm looking for an expensive restaurant in the city centre."
+      },
+      {
+        "role": "system",
+        "utterance": "I can most definitely help with that. Is there a certain type of food you would like to try?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes, I think I would like to try French food."
+      },
+      {
+        "role": "system",
+        "utterance": "Cote is a French restaurant in the centre of town. It is expensive. Would you like me to book you a reservation?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes. Please send be the phone number, address and postcode."
+      },
+      {
+        "role": "system",
+        "utterance": "Their number is 01223311053, postcard is cb21uf and they are located on Bridge Street City Centre."
+      },
+      {
+        "role": "user",
+        "utterance": "Great, thanks. I also need a train. I need to leave cambridge after 12:15."
+      },
+      {
+        "role": "system",
+        "utterance": "I have over 800 possible matches for that request. Where will you be departing from?"
+      },
+      {
+        "role": "user",
+        "utterance": "I am leaving from Kings Lynn on Saturday."
+      },
+      {
+        "role": "system",
+        "utterance": "I have a train TR4003 leaving cambride at 13:00 and arriving at london kings cross at 13:51. Would you like me to make reservations?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes, can you book that train for 2 people please?"
+      },
+      {
+        "role": "system",
+        "utterance": "Your train has been booked. Reference number CYW95CE2 . Is there anything else I can help you with?"
+      },
+      {
+        "role": "user",
+        "utterance": "No, thank you. That is all I need today."
+      },
+      {
+        "role": "system",
+        "utterance": "I am happy to be able to help. Have a nice day. Goodbye."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "SNG01678.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I want to know where I would find the Parkside Police Station. Could you tell me?"
+      },
+      {
+        "role": "system",
+        "utterance": "Their postcode is CB11JG, you can reach them at phone number 01223358966."
+      },
+      {
+        "role": "user",
+        "utterance": "Thank you. May I have a street address for the police station?"
+      },
+      {
+        "role": "system",
+        "utterance": "Certainly. Their address is Parkside, Cambridge. Can I assist you further?"
+      },
+      {
+        "role": "user",
+        "utterance": "Thank you goodbye"
+      },
+      {
+        "role": "system",
+        "utterance": "welcome. at your service next time"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "MUL1170.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I am looking for a place to stay in the moderate price range. It must include free parking."
+      },
+      {
+        "role": "system",
+        "utterance": "Is there a specific part of town you would like to stay in?"
+      },
+      {
+        "role": "user",
+        "utterance": "I would prefer to stay in a 2 star hotel in the north."
+      },
+      {
+        "role": "system",
+        "utterance": "The Ashley hotel is a 2 star hotel in the north with free parking in the moderate price range. I can book this for you."
+      },
+      {
+        "role": "user",
+        "utterance": "That would be great! Can you let me know what the post code is? Thank you!"
+      },
+      {
+        "role": "system",
+        "utterance": "The postcode is cb41er. How long would you like to stay and how many should I book the hotel for?"
+      },
+      {
+        "role": "user",
+        "utterance": "I don't need to book it at this time. Can you help me find a place to visit while I'm in town? I'd like a swimming pool in the North."
+      },
+      {
+        "role": "system",
+        "utterance": "We list two swimming pools in the north area, jesus green outdoor pool and kings hedges learner pool. Would you like more information on either of those?"
+      },
+      {
+        "role": "user",
+        "utterance": "Can you give me the phone number and postcode for the Jesus Green pool, please?"
+      },
+      {
+        "role": "system",
+        "utterance": "Sure, the phone number is 01223302579 and the postcode is cb43px. Can I help with anything else today?"
+      },
+      {
+        "role": "user",
+        "utterance": "No that is all thank you."
+      },
+      {
+        "role": "system",
+        "utterance": "Thank you, goodbye."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL4016.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I would like information on the Gonville hotel."
+      },
+      {
+        "role": "system",
+        "utterance": "The gonville hotel is in the city centre. It is expensive, and has 3 stars. Free internet and parking. Address is gonville place. Can I get you a booking?"
+      },
+      {
+        "role": "user",
+        "utterance": "Sure, I need a reservation for 4 people and 3 nights starting on Saturday."
+      },
+      {
+        "role": "system",
+        "utterance": "I was able to reserve that for you. Your reference number is 28PZGFFT ."
+      },
+      {
+        "role": "user",
+        "utterance": "Thank you so much!"
+      },
+      {
+        "role": "system",
+        "utterance": "Thank you. Is there anything else?"
+      },
+      {
+        "role": "user",
+        "utterance": "Are there any expensive thai paces in the area?"
+      },
+      {
+        "role": "system",
+        "utterance": "There is bangkok city in the centre would you like me to make you a reservation?"
+      },
+      {
+        "role": "user",
+        "utterance": "Is that in the west?"
+      },
+      {
+        "role": "system",
+        "utterance": "It is in the centre, not the west."
+      },
+      {
+        "role": "user",
+        "utterance": "I need something in the West"
+      },
+      {
+        "role": "system",
+        "utterance": "Sala thong is a great thai restaurant on the west side located at 35 Newnham Road Newnham. Do you need any more information?"
+      },
+      {
+        "role": "user",
+        "utterance": "What postcode is that?"
+      },
+      {
+        "role": "system",
+        "utterance": "cb39ey. What else may I do for you?"
+      },
+      {
+        "role": "user",
+        "utterance": "I also need a taxi that will leave the restaurant by 09:15"
+      },
+      {
+        "role": "system",
+        "utterance": "Okay, what time do you need to leave?"
+      },
+      {
+        "role": "user",
+        "utterance": "I need to leave the restaurant by 09:15 to go the hotel. Can you book a taxi for me?"
+      },
+      {
+        "role": "system",
+        "utterance": "Booking completed! Booked car type : yellow volvo Contact number : 07044362431 Can I help with anything else?"
+      },
+      {
+        "role": "user",
+        "utterance": "No that's it, thank you."
+      },
+      {
+        "role": "system",
+        "utterance": "Thanks again for using our service, enjoy your stay!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL4213.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "i'm looking for a train to cambridge"
+      },
+      {
+        "role": "system",
+        "utterance": "I'd love to help! Which day were you wanting to leave?"
+      },
+      {
+        "role": "user",
+        "utterance": "I'm leaving on Sunday"
+      },
+      {
+        "role": "system",
+        "utterance": "What station do you want to leave from?"
+      },
+      {
+        "role": "user",
+        "utterance": "I need a train from broxbourne."
+      },
+      {
+        "role": "system",
+        "utterance": "I have many trains on that day. Do you have a preferred time for leaving or arriving?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes, I'd like to leave for cambridge after 13:30 on sunday."
+      },
+      {
+        "role": "system",
+        "utterance": "TR4813 leaves at 14:32 and arrive an hour later. How does that sound?"
+      },
+      {
+        "role": "user",
+        "utterance": "That sounds great. I'll need 7 tickets."
+      },
+      {
+        "role": "system",
+        "utterance": "Your booking was successful. The total fee is 100.24 GBP, which is payable at the station. Your reference number is ALFLIJMY . Is there anything else I can help you with?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yeah, can to tell me about colleges in the centre of town?"
+      },
+      {
+        "role": "system",
+        "utterance": "There are 13 colleges located in the centre. Are you looking for somewhere with free entrance or is somewhere with a fee okay too?"
+      },
+      {
+        "role": "user",
+        "utterance": "it doesn't matter. could you provide the postcode, phone number, and address for one that you suggest?"
+      },
+      {
+        "role": "system",
+        "utterance": "Sure! I suggest Downing College. I is located on Regent Street in the postcode CB21DQ. Their phone number is 01223334860."
+      },
+      {
+        "role": "user",
+        "utterance": "That should be it for today thanks!"
+      },
+      {
+        "role": "system",
+        "utterance": "You're welcome. Goodbye"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL0966.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "Hi, I'm looking to book a train out of Cambridge that I want to arrive in Ely. Can you assist me with finding times and dates?"
+      },
+      {
+        "role": "system",
+        "utterance": "There are 70 trains traveling to Ely from Cambridge between Friday and Wednesday. What day do you want to travel?"
+      },
+      {
+        "role": "user",
+        "utterance": "I would like to leave on Saturday."
+      },
+      {
+        "role": "system",
+        "utterance": "You could take TR8860 early Saturday at 05:50. It's a short trip of 17 minutes and costs 3.52 pounds. Will this work for you?"
+      },
+      {
+        "role": "user",
+        "utterance": "Can you book that one for 6 people?"
+      },
+      {
+        "role": "system",
+        "utterance": "Yes, I have made the booking for you. Your reference number is 1K560JNY ."
+      },
+      {
+        "role": "user",
+        "utterance": "I also need a place to eat, I would like it in the west and expensive."
+      },
+      {
+        "role": "system",
+        "utterance": "There are 9 expensive restaurants in the west. Are you looking for a particular type of food?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes. British food please."
+      },
+      {
+        "role": "system",
+        "utterance": "I have two. Shall I book one for you?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes, I need a table for 6 people at 10:30 on Saturday and please provide the reference number after booking is completed."
+      },
+      {
+        "role": "system",
+        "utterance": "What day do you want it for, before I confirm the booking?"
+      },
+      {
+        "role": "user",
+        "utterance": "The same day, saturday."
+      },
+      {
+        "role": "system",
+        "utterance": "Booking was successful. The table will be reserved for 15 minutes. Reference number is : XEP4E22B . Will there be anything else today?"
+      },
+      {
+        "role": "user",
+        "utterance": "Thank you, thats all I need today."
+      },
+      {
+        "role": "system",
+        "utterance": "Glad I could help, hope you have a great trip!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL1287.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "Currently planning to come out there but need to find a train that leaves after 15:30 and that will depart from Norwich."
+      },
+      {
+        "role": "system",
+        "utterance": "What day do you want to travel on?"
+      },
+      {
+        "role": "user",
+        "utterance": "I would like to leave on Monday."
+      },
+      {
+        "role": "system",
+        "utterance": "I do not have a train that leaves by 15:30 on that day but soon after at 16:16. Would this work for you?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes. I will need two tickets."
+      },
+      {
+        "role": "system",
+        "utterance": "Al set, your reference number is ZIY4Y3CA, the cost is 17.60 pounds per person payable at the station."
+      },
+      {
+        "role": "user",
+        "utterance": "Can I also get information on wandlebury country park."
+      },
+      {
+        "role": "system",
+        "utterance": "Yes, wandlebury country park is located at wandlebury ring, gog magog hills, babraham, with phone #01223243830. Would you like any other information?"
+      },
+      {
+        "role": "user",
+        "utterance": "That is all that I needed. Thank you so much for the assistance."
+      },
+      {
+        "role": "system",
+        "utterance": "You are welcome. Please comeback if we can do anything more for you!"
+      },
+      {
+        "role": "user",
+        "utterance": "I will. Thanks again. Good-bye."
+      },
+      {
+        "role": "system",
+        "utterance": "My pleasure. Enjoy your time in Cambridge. Goodbye."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "WOZ20026.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "Is there a cheap restaurant in the north part of town?"
+      },
+      {
+        "role": "system",
+        "utterance": "May I suggest Royal Spice, a cheap Indian restaurant in the north?"
+      },
+      {
+        "role": "user",
+        "utterance": "Is there anything else?"
+      },
+      {
+        "role": "system",
+        "utterance": "Da Vinci Pizzeria is a cheap italian restraunt in the north area of town."
+      },
+      {
+        "role": "user",
+        "utterance": "What is the address and phone number?"
+      },
+      {
+        "role": "system",
+        "utterance": "Da Vinci Pizzeria is at 20 Milton Road Chesterton, and their phone number is 01223 351707."
+      },
+      {
+        "role": "user",
+        "utterance": "Thank you goodbye."
+      },
+      {
+        "role": "system",
+        "utterance": "Thank you and goodbye!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "SSNG0320.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I need a hotel in the center of town with a star of 0."
+      },
+      {
+        "role": "system",
+        "utterance": "I have 2 with 0 stars. One is cheap the other is moderately priced. Do you have a preference?"
+      },
+      {
+        "role": "user",
+        "utterance": "I would like the moderately priced hotel."
+      },
+      {
+        "role": "system",
+        "utterance": "How about cityroomz? They have free internet."
+      },
+      {
+        "role": "user",
+        "utterance": "Yes,address and phone number please ?"
+      },
+      {
+        "role": "system",
+        "utterance": "The address is sleeperz hotel, station road cb12tz and the phone number is 01223304050. Is there anything else I can help you with?"
+      },
+      {
+        "role": "user",
+        "utterance": "I would like to book that for 2 nights from Friday for 2 people."
+      },
+      {
+        "role": "system",
+        "utterance": "I'm sorry, that isn't available. Would you like me to try the other one, El Shaddai?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes as long as it's in the same price range."
+      },
+      {
+        "role": "system",
+        "utterance": "I was able to book El Shaddai for 2, for two nights starting Friday. Your reference number is X7WHA1XL . Is there anything else I can help you with?"
+      },
+      {
+        "role": "user",
+        "utterance": "No, that's fine. Thank you for your help."
+      },
+      {
+        "role": "system",
+        "utterance": "The address of hotel El Shaddai is 41 warkworth street cb11eg and the phone number is 01223327978."
+      },
+      {
+        "role": "user",
+        "utterance": "Have a nice day."
+      },
+      {
+        "role": "system",
+        "utterance": "Have a nice stay at the el shaddai. Thank you for contacting us and have a great day."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "SNG1304.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I'm looking for unusual and expensive cuisine in the west. Do you have any suggestions?"
+      },
+      {
+        "role": "system",
+        "utterance": "I didn't find any records matching those criteria."
+      },
+      {
+        "role": "user",
+        "utterance": "How about an Indian restaurant?"
+      },
+      {
+        "role": "system",
+        "utterance": "There are several in the West area. What is your address and I can find one that is closest to you? Do you want to walk?"
+      },
+      {
+        "role": "user",
+        "utterance": "I just want to go to one you think is best please"
+      },
+      {
+        "role": "system",
+        "utterance": "You should definitely try Cocum. Can I reserve a table for you?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes, please. I need a table for 4 people at 14:45 on Thursday. If not Thursday, I'd like the same time on Tuesday. Please send me the reference number."
+      },
+      {
+        "role": "system",
+        "utterance": "I was able to get you a table on Thursday, ref# XLUIM3SN . Is there anything else I can help you with today?"
+      },
+      {
+        "role": "user",
+        "utterance": "No, you've been awesome thanks for all your help!"
+      },
+      {
+        "role": "system",
+        "utterance": "I hope you enjoy your meal. Goodbye!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "SNG0036.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "Hello there. I was wondering if you could help me arrange for a taxi to take me from the Cherry Hinton Village Centre to La Raza?"
+      },
+      {
+        "role": "system",
+        "utterance": "Certainly! Do you have an arrival or departure time in mind?"
+      },
+      {
+        "role": "user",
+        "utterance": "I need to leave after 10:15. may i have the contact number for taxi please?"
+      },
+      {
+        "role": "system",
+        "utterance": "Absolutely. The contact number is 07862333057"
+      },
+      {
+        "role": "user",
+        "utterance": "Thank you very much!"
+      },
+      {
+        "role": "system",
+        "utterance": "Would you like me to book the taxi?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes I need the taxi to depart from the cherry hinton village and go to la raza. Leaving after 10:15. Please give me the contact number and car type."
+      },
+      {
+        "role": "system",
+        "utterance": "Okay, the taxi is booked. The contact number is 07862333057, the car will be a Blue Honda. Is there anything else I can help with?"
+      },
+      {
+        "role": "user",
+        "utterance": "No, that will be all, thank you. Have a nice day."
+      },
+      {
+        "role": "system",
+        "utterance": "Thank you. We are always here to help with your bookings."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL3969.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "i am new here. i need a place to stay with free wifi"
+      },
+      {
+        "role": "system",
+        "utterance": "Okay! What price range are you looking for?"
+      },
+      {
+        "role": "user",
+        "utterance": "cheaper the better free wifi too"
+      },
+      {
+        "role": "system",
+        "utterance": "I have 10 locations with free wifi in the cheap price range. Do you have a particular area in mind?"
+      },
+      {
+        "role": "user",
+        "utterance": "No particular area, whatever you suggest."
+      },
+      {
+        "role": "system",
+        "utterance": "Okay well I suggest the Alexander Bed and Breakfast in their center. Would you like me to make a booking for you?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes please book 2 nights for 5 people, starting on Saturday."
+      },
+      {
+        "role": "system",
+        "utterance": "I have booked the Alexander Bed and Breakfast for 2 nights starting on Saturday for 5 people. The reference number is UCIOWNWV . Anything else I can help you with?"
+      },
+      {
+        "role": "user",
+        "utterance": "That's it. Thank you, goodbye!"
+      },
+      {
+        "role": "system",
+        "utterance": "Have a great day!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "MUL1822.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I am looking for places to go in town centre. What are some options?"
+      },
+      {
+        "role": "system",
+        "utterance": "I have the Mumford Theatre at anglia ruskin enterprise, east road, or the fitzwilliam museum at trumpington street."
+      },
+      {
+        "role": "user",
+        "utterance": "What are the entrance fees for all those locations?"
+      },
+      {
+        "role": "system",
+        "utterance": "The entrance fee is free for the museum is free, and the theater fee is unknown."
+      },
+      {
+        "role": "user",
+        "utterance": "Okay, thanks for that information. I would like to book a train as well. I'm leaving Tuesday after 16:00 from Cambridge."
+      },
+      {
+        "role": "system",
+        "utterance": "Alright, where would you like to go?"
+      },
+      {
+        "role": "user",
+        "utterance": "I'd like to go from stansted airport to Cambridge."
+      },
+      {
+        "role": "system",
+        "utterance": "TR8372 leaves at 16:24. Are you interested?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes, I need to book that for 8 people. Please send the reference number."
+      },
+      {
+        "role": "system",
+        "utterance": "Booking was successful, the total fee is 80.8 GBP payable at the station . Reference number is : VHL6TYDF ."
+      },
+      {
+        "role": "user",
+        "utterance": "Thank you! Goodbye."
+      },
+      {
+        "role": "system",
+        "utterance": "You're welcome goodbye."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "SNG01671.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "What is the address for find pizza hut city centre?"
+      },
+      {
+        "role": "system",
+        "utterance": "The address for that restaurant is Regent Street City Centre."
+      },
+      {
+        "role": "user",
+        "utterance": "Thank you, can you book a table for 2 on Friday at 18:00"
+      },
+      {
+        "role": "system",
+        "utterance": "I'm sorry. The restaurant is fully booked at that time. What other day or time slot would be good for you?"
+      },
+      {
+        "role": "user",
+        "utterance": "Please try Friday at 17:00. It should be less crowded then."
+      },
+      {
+        "role": "system",
+        "utterance": "Booking was successful. The table will be reserved for 15 minutes. Reference number is : CQV6JDS3 ."
+      },
+      {
+        "role": "user",
+        "utterance": "Thank you for the help."
+      },
+      {
+        "role": "system",
+        "utterance": "You are more than welcome!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "MUL0560.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "Hi, what are some places to visit in Cambridge?"
+      },
+      {
+        "role": "system",
+        "utterance": "We have many different attractions in cambridge. What sort of place are you looking for, and in what part of town?"
+      },
+      {
+        "role": "user",
+        "utterance": "I am looking for a swimming pool, in the east part of town."
+      },
+      {
+        "role": "system",
+        "utterance": "Sure, there is abbey pool and astroturf pitch in the east, address is pool way, whitehill road, off newmarket road. What else can I help with today?"
+      },
+      {
+        "role": "user",
+        "utterance": "Please give me their phone number and entrance fee."
+      },
+      {
+        "role": "system",
+        "utterance": "I don't have information on their entrance fee, but their phone number is 01223902088."
+      },
+      {
+        "role": "user",
+        "utterance": "I am also looking for a train leaving on Tuesday from Broxbourne after 17:15 headed to Cambridge."
+      },
+      {
+        "role": "system",
+        "utterance": "You have 7 trains, starting with TR6368 at 17:32. Would you like to book that one?"
+      },
+      {
+        "role": "user",
+        "utterance": "What is the arrival time?"
+      },
+      {
+        "role": "system",
+        "utterance": "Train TR6368 arrives in Cambridge by 18:32. Do you need anything else? I can help book a trip for you if you like."
+      },
+      {
+        "role": "user",
+        "utterance": "That'd be great, thank you."
+      },
+      {
+        "role": "system",
+        "utterance": "I'd be happy to book that for you. How many tickets will you need, just one?"
+      },
+      {
+        "role": "user",
+        "utterance": "Just one please."
+      },
+      {
+        "role": "system",
+        "utterance": "I booked you on TR6368 at 17:32. Is there anything else I can help you with?"
+      },
+      {
+        "role": "user",
+        "utterance": "That will be all, thank you."
+      },
+      {
+        "role": "system",
+        "utterance": "Thank you for choosing Cambridge TownInfo centre. Have a nice trip!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL0026.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I'm planning your trip in Cambridge.i'm looking for a place to dine in the east with chinese food"
+      },
+      {
+        "role": "system",
+        "utterance": "How about yu garden?"
+      },
+      {
+        "role": "user",
+        "utterance": "That sounds good! I would like to make a reservation for 2 at 13:15 on friday."
+      },
+      {
+        "role": "system",
+        "utterance": "Yes I have made that for you and your reservation number is YWN5SM9V ."
+      },
+      {
+        "role": "user",
+        "utterance": "Awesome! Thank you, could you give me their address?"
+      },
+      {
+        "role": "system",
+        "utterance": "The address is 529 Newmarket Road Fen Ditton. Is there anything else I can help you with?"
+      },
+      {
+        "role": "user",
+        "utterance": "Recommendations for guesthouses to stay without free parking?"
+      },
+      {
+        "role": "system",
+        "utterance": "How about archway house? I hear it's lovely."
+      },
+      {
+        "role": "user",
+        "utterance": "I can try it, can you book it for me?"
+      },
+      {
+        "role": "system",
+        "utterance": "I would be happy to. Let me get some additional information. When would you like to check in?"
+      },
+      {
+        "role": "user",
+        "utterance": "Actually, I don't need a booking. Thanks, good bye."
+      },
+      {
+        "role": "system",
+        "utterance": "It was a pleasure to help you today. Goodbye."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL2521.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I'm looking for a cheap place to stay with free wifi please."
+      },
+      {
+        "role": "system",
+        "utterance": "i recommend allenbell 01223210353"
+      },
+      {
+        "role": "user",
+        "utterance": "Okay that sounds great! Thanks for your help!"
+      },
+      {
+        "role": "system",
+        "utterance": "You're very welcome! Is there anything else that I can help you with?"
+      },
+      {
+        "role": "user",
+        "utterance": "Does the allenbell have free parking?"
+      },
+      {
+        "role": "system",
+        "utterance": "Yes, it does offer free parking"
+      },
+      {
+        "role": "user",
+        "utterance": "I would like to make a reservation for 5. Book it for 4 nights starting this Wednesday"
+      },
+      {
+        "role": "system",
+        "utterance": "Your reservations have been made. Your reference number is 6AG8HV72 . Is there anything else I can help you with?"
+      },
+      {
+        "role": "user",
+        "utterance": "Are there any architecture attractions near the centre?"
+      },
+      {
+        "role": "system",
+        "utterance": "I have 5 architectural attractions in the centre. If I may, I would suggest All Saints Church. They offer free entrance."
+      },
+      {
+        "role": "user",
+        "utterance": "cool, what's their phone number?"
+      },
+      {
+        "role": "system",
+        "utterance": "All Saints Church's number is 01223452587."
+      },
+      {
+        "role": "user",
+        "utterance": "Can I get their address as well?"
+      },
+      {
+        "role": "system",
+        "utterance": "The address is jesus lane. Can I get you any other information?"
+      },
+      {
+        "role": "user",
+        "utterance": "No, that will be all. Thank you for your help!"
+      },
+      {
+        "role": "system",
+        "utterance": "Okay, have a great day!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "MUL2018.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "Hi there. Can you help me find a train leaving on Friday?"
+      },
+      {
+        "role": "system",
+        "utterance": "Please tell me what town are you departing from and what is your destination?"
+      },
+      {
+        "role": "user",
+        "utterance": "On Friday, I would like to arrive in Cambridge by 16:45."
+      },
+      {
+        "role": "system",
+        "utterance": "There are over 100 trains available, could you please provide a departure location?"
+      },
+      {
+        "role": "user",
+        "utterance": "I would like to leave from london kings cross."
+      },
+      {
+        "role": "system",
+        "utterance": "ok I have one leaving by 05:17, TR5219, would that be fine?"
+      },
+      {
+        "role": "user",
+        "utterance": "Do you have one that arrives a little closer to 16:45. I don't want to get in too early."
+      },
+      {
+        "role": "system",
+        "utterance": "TR8842 will get you there at 16:08. May I book it for you?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes, I need it for 8 people. I'm also looking for a guesthouse type hotel with free parking in the moderate range."
+      },
+      {
+        "role": "system",
+        "utterance": "Do you have a preference for the number of stars or the area?"
+      },
+      {
+        "role": "user",
+        "utterance": "May I have a reference number for that train, please?"
+      },
+      {
+        "role": "system",
+        "utterance": "Your reference number is RRNTTR7Z . We also have quite a few guesthouses, do you have an area you'd like?"
+      },
+      {
+        "role": "user",
+        "utterance": "For the guesthouse, do you have one in the moderate price range that includes free parking?"
+      },
+      {
+        "role": "system",
+        "utterance": "There are 12 options for moderately priced guesthouses, any area preference?"
+      },
+      {
+        "role": "user",
+        "utterance": "The area doesn't matter. I just need one with rooms available for 3 nights starting on Friday."
+      },
+      {
+        "role": "system",
+        "utterance": "For how many people?"
+      },
+      {
+        "role": "user",
+        "utterance": "I need it to be for 2 people."
+      },
+      {
+        "role": "system",
+        "utterance": "The Acorn Guest House on 154 Chesterton Road should be sufficient, shall I reserve a room for you now?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes, please, and I'll need the reference number."
+      },
+      {
+        "role": "system",
+        "utterance": "I was unable to book that room for you. Can we try a shorter stay or a different place perhaps?"
+      },
+      {
+        "role": "user",
+        "utterance": "Sure, please try 2 nights."
+      },
+      {
+        "role": "system",
+        "utterance": "The booking was still unsuccessful. Would you like to try a different day?"
+      },
+      {
+        "role": "user",
+        "utterance": "Could we please try a different hotel that is close to The Acorn Guest House?"
+      },
+      {
+        "role": "system",
+        "utterance": "I checked with all 7 guesthouses in the north and none are available for even a one day stay starting Friday. Could we try a different day?"
+      },
+      {
+        "role": "user",
+        "utterance": "Well I guess I'm out of luck, unless there are hotels in adjoining towns I could try."
+      },
+      {
+        "role": "system",
+        "utterance": "Sorry, we only work with places in cambridge."
+      },
+      {
+        "role": "user",
+        "utterance": "I am so sorry, can we start over with the guesthouse? I do need a moderate, but for 8 people. Still arriving Friday for 3 nights."
+      },
+      {
+        "role": "system",
+        "utterance": "I could not book a room for that number of nights on those days in that area. Perhaps try a different area?"
+      },
+      {
+        "role": "user",
+        "utterance": "Please try 2 nights on Friday and see if that works. For a guesthouse, please."
+      },
+      {
+        "role": "system",
+        "utterance": "Your room is booked at acorn guest house for 8 people and 2 nights starting on Friday. Reference number is 3M1I4Q7S . Anything else I can help with?"
+      },
+      {
+        "role": "user",
+        "utterance": "No, that should be all I need. Thanks for your help!"
+      },
+      {
+        "role": "system",
+        "utterance": "It was a pleasure being of service. Enjoy your stay in Cambridge and call again if you need any further assistance. Goodbye!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "SNG01193.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I need a hotel in the south"
+      },
+      {
+        "role": "system",
+        "utterance": "The lensfield hotel is in the south. Do you want me to book it for you?"
+      },
+      {
+        "role": "user",
+        "utterance": "does it include free parking?"
+      },
+      {
+        "role": "system",
+        "utterance": "Yes the Lensfield Hotel does have parking. Would you like me to book it?"
+      },
+      {
+        "role": "user",
+        "utterance": "Thank you goodbye"
+      },
+      {
+        "role": "system",
+        "utterance": "It's been my pleasure. Have a great stay in Cambridge."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "SSNG0002.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "Can you find me a Chinese restaurant please?"
+      },
+      {
+        "role": "system",
+        "utterance": "Sure. There are 17 chinese restaurants in town. Are you looking for a certain price range or location?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes. I would like it to be in the expensive price range."
+      },
+      {
+        "role": "system",
+        "utterance": "I have found 5 that fit that description. Is there a particular area you would like?"
+      },
+      {
+        "role": "user",
+        "utterance": "I would like to book a table for 6 at 15:15 on Tuesday."
+      },
+      {
+        "role": "system",
+        "utterance": "I was able to get a table at Hakka in the north. The reference number is 7KW8MVL3 and they'll keep the table for 15 minutes. Does that suit you?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes, thank you. That's all for now. Bye!"
+      },
+      {
+        "role": "system",
+        "utterance": "Thank you for contacting us and enjoy your meal at the hakka. Have a great day."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "SNG02058.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "Am looking for the Addenbrookes Hospital."
+      },
+      {
+        "role": "system",
+        "utterance": "The Addenbrookes Hospital is located at Hills Rd, Cambridge Postcode CB20QQ."
+      },
+      {
+        "role": "user",
+        "utterance": "Great, thank you for your help."
+      },
+      {
+        "role": "system",
+        "utterance": "Thank you, Goodbye."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "SNG1254.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I need a place to stay that has free wifi."
+      },
+      {
+        "role": "system",
+        "utterance": "What type of lodging would you prefer? And do you care about price or area?"
+      },
+      {
+        "role": "user",
+        "utterance": "I would like to stay in a guesthouse."
+      },
+      {
+        "role": "system",
+        "utterance": "What area would you like to stay in?"
+      },
+      {
+        "role": "user",
+        "utterance": "I don't have a preference."
+      },
+      {
+        "role": "system",
+        "utterance": "Do you have a preference on price range?"
+      },
+      {
+        "role": "user",
+        "utterance": "I would like someplace expensive."
+      },
+      {
+        "role": "system",
+        "utterance": "I'm not finding anything meeting that criteria. Would you like to try a moderately priced guesthouse?"
+      },
+      {
+        "role": "user",
+        "utterance": "What about an expensive hotel?"
+      },
+      {
+        "role": "system",
+        "utterance": "The gonville hotel is expensive with free wifi. Shall I book it for you?"
+      },
+      {
+        "role": "user",
+        "utterance": "What is their postcode?"
+      },
+      {
+        "role": "system",
+        "utterance": "The postcode for Gonville Hotel is cb11ly. What else can I help you with today?"
+      },
+      {
+        "role": "user",
+        "utterance": "That will be all, thank you."
+      },
+      {
+        "role": "system",
+        "utterance": "You're very welcome! Enjoy your stay!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "MUL0720.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "Can you help me find a place to stay? I am looking for a hotel with a star of 0 and it needs free wifi."
+      },
+      {
+        "role": "system",
+        "utterance": "There are 3 hotels that meet that criteria. Would city centre north b and b work for you?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes. Does it have free wifi?"
+      },
+      {
+        "role": "system",
+        "utterance": "Yes, they offer free wifi. Would you like me to make a reservation for you?"
+      },
+      {
+        "role": "user",
+        "utterance": "Is that a guesthouse in the north? If so, I need to book it for 5 people 3 nights starting Tuesday, and I'll need a reference number."
+      },
+      {
+        "role": "system",
+        "utterance": "There is one guesthouse called City Centre North B and B, your reservation is all booked, your reference number is 7QYC93WT ."
+      },
+      {
+        "role": "user",
+        "utterance": "Thank you. I would also like to check the train schedule for Friday."
+      },
+      {
+        "role": "system",
+        "utterance": "Sure. Where will you be departing from and arriving at?"
+      },
+      {
+        "role": "user",
+        "utterance": "I'll be leaving from Cambridge and going to Norwich on Friday."
+      },
+      {
+        "role": "system",
+        "utterance": "Trains from Cambridge to Norwich leave 36 minutes after the hour, every hour. The duration is 79 minutes, and the price is 17.6GBP. Would you like to book a ticket?"
+      },
+      {
+        "role": "user",
+        "utterance": "Can I get the train ID for the one you mentioned please?"
+      },
+      {
+        "role": "system",
+        "utterance": "I'm apologize but before I can provide a train number I need to know what time you would like to depart."
+      },
+      {
+        "role": "user",
+        "utterance": "Any time after 20:45 is just fine with me. I'll just need the train ID - no booking today."
+      },
+      {
+        "role": "system",
+        "utterance": "TR0625 departs friday from cambridge at 21:36. Do you need any other information?"
+      },
+      {
+        "role": "user",
+        "utterance": "Could you tell me the price of the train please?"
+      },
+      {
+        "role": "system",
+        "utterance": "Yes, the cost is 17.60 pounds. Do you want to book it?"
+      },
+      {
+        "role": "user",
+        "utterance": "Could you please tell me the travel time for that?"
+      },
+      {
+        "role": "system",
+        "utterance": "Of course, the travel time is roughly 79 minutes."
+      },
+      {
+        "role": "user",
+        "utterance": "Ok, that's good. I would like to book that train please"
+      },
+      {
+        "role": "system",
+        "utterance": "OK, how many tickets do you need?"
+      },
+      {
+        "role": "user",
+        "utterance": "I don't need a ticket. I just needed to know. That'll be everything!"
+      },
+      {
+        "role": "system",
+        "utterance": "Thank you, goodbye."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "SNG1396.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "Can you please help me find a guesthouse that offers free parking?"
+      },
+      {
+        "role": "system",
+        "utterance": "Okay, what area would you like to stay in?"
+      },
+      {
+        "role": "user",
+        "utterance": "I don't care, just something in the moderate price range and 4 stars."
+      },
+      {
+        "role": "system",
+        "utterance": "The Acorn Guest House fits your criteria. It is located in the North. Would you like a reservation?"
+      },
+      {
+        "role": "user",
+        "utterance": "No thank you. Would you give me the postcode?"
+      },
+      {
+        "role": "system",
+        "utterance": "Sure can. The post code is cb41da. Anything else I can do for you today?"
+      },
+      {
+        "role": "user",
+        "utterance": "That's all I needed to know. Thanks so much! Take care!"
+      },
+      {
+        "role": "system",
+        "utterance": "You are welcome. Have a great day."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "MUL0644.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I need a train to cambridge"
+      },
+      {
+        "role": "system",
+        "utterance": "Please be specific about when you are leaving and by what time you intend to arrive to help me to narrow down."
+      },
+      {
+        "role": "user",
+        "utterance": "I'd like to depart from Ely on Wednesday after 12:15."
+      },
+      {
+        "role": "system",
+        "utterance": "There is a train at 13:35 that cost 4.40 pounds. Would you like to take it?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes please. Could you also give me the train ID?"
+      },
+      {
+        "role": "system",
+        "utterance": "Their ID is TR1039."
+      },
+      {
+        "role": "user",
+        "utterance": "Ok, thank you. I also need some help finding a guesthouse. I also would like free wifi."
+      },
+      {
+        "role": "system",
+        "utterance": "We've got a lot of options for guesthouses, what area do you want to stay in?"
+      },
+      {
+        "role": "user",
+        "utterance": "I would like to stay in Cambridge please."
+      },
+      {
+        "role": "system",
+        "utterance": "Ok, centre, north, east, west, or south side?"
+      },
+      {
+        "role": "user",
+        "utterance": "I'd like a cheap place in the centre for 8 people and 5 nights starting Wednesday."
+      },
+      {
+        "role": "system",
+        "utterance": "Alexander Bed and Breakfast, 56 Saint Barnabas Road is inexpensive and rated 4 stars. Would you like me to book that?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes, that sounds good."
+      },
+      {
+        "role": "system",
+        "utterance": "The booking for Alexander Bed and Breakfast was denied for 8 guests staying five days, starting on Wednesday. Would it be possible to plan a shorter or longer stay?"
+      },
+      {
+        "role": "user",
+        "utterance": "That's fine, I'd like to book it for 4 nights then."
+      },
+      {
+        "role": "system",
+        "utterance": "OK, I have you booked at alexander bed and breakfast for 4 nights. The Reference Number is : 741JC8HU . Anything else I can help you with today?"
+      },
+      {
+        "role": "user",
+        "utterance": "That takes care of it. Thank you very much."
+      },
+      {
+        "role": "system",
+        "utterance": "You are welcome. Have a very nice stay."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "WOZ20086.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I would like an expensive restaurant in the east part of town"
+      },
+      {
+        "role": "system",
+        "utterance": "What type of food are you looking for?"
+      },
+      {
+        "role": "user",
+        "utterance": "I don't care"
+      },
+      {
+        "role": "system",
+        "utterance": "grafton hotel restaurant is a nice restaurant that serves british food and is in the east part of town"
+      },
+      {
+        "role": "user",
+        "utterance": "can i have their address and post code please"
+      },
+      {
+        "role": "system",
+        "utterance": "sure, their address is Grafton Hotel 619 Newmarket Road Fen Ditton, C.B 5, 8 P.A"
+      },
+      {
+        "role": "user",
+        "utterance": "thank you for the help, good bye"
+      },
+      {
+        "role": "system",
+        "utterance": "you're welcome, enjoy!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL4086.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "Hello! I'm needing a place to stay in the center of town. Parking is not important to me. What do you have?"
+      },
+      {
+        "role": "system",
+        "utterance": "I have a moderately priced hotel called Cityroomz available. Can I help you book your stay?"
+      },
+      {
+        "role": "user",
+        "utterance": "No thanks, but can I just get some information about Cityroomz?"
+      },
+      {
+        "role": "system",
+        "utterance": "Cityroomz is a moderatly priced 0-star hotel in the centre. They offer internet and parking and are located on station road."
+      },
+      {
+        "role": "user",
+        "utterance": "I would like to book 5 nights on sunday for 5."
+      },
+      {
+        "role": "system",
+        "utterance": "You're all set. Your Reference number is : T9VLKXV5 ."
+      },
+      {
+        "role": "user",
+        "utterance": "Sounds great- thanks for your help!"
+      },
+      {
+        "role": "system",
+        "utterance": "Have a great visit!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL3854.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I am planning a trip in Cambridge."
+      },
+      {
+        "role": "system",
+        "utterance": "Excellent! What can I help you with?"
+      },
+      {
+        "role": "user",
+        "utterance": "I want to get a train to cambridge from leicester."
+      },
+      {
+        "role": "system",
+        "utterance": "What day and time would you like to travel?"
+      },
+      {
+        "role": "user",
+        "utterance": "I need the train to arrive by 15:45 and leave on friday."
+      },
+      {
+        "role": "system",
+        "utterance": "There is TR4625 that will depart from leicester and arrive at 14:54. The cost of the ticket is 37.80 pounds."
+      },
+      {
+        "role": "user",
+        "utterance": "Sounds great. i will need a booking for 2 people."
+      },
+      {
+        "role": "system",
+        "utterance": "I have booked you 2 tickets on the TR4625 leaving Leicester at 13:09 and arriving in Cambridge at 14:54 total fee is 75.59 GBP referenece TGE8CAOR ."
+      },
+      {
+        "role": "user",
+        "utterance": "Great! Thank you! I will also need a hotel in the east. It must have free parking."
+      },
+      {
+        "role": "system",
+        "utterance": "express by holiday inn cambridge is in the east and has an expensive price range"
+      },
+      {
+        "role": "user",
+        "utterance": "Okay can you book it for me for 3 nights from Friday for 2 people?"
+      },
+      {
+        "role": "system",
+        "utterance": "Booking was successful. Your Reference number is : MTML5ASG . Is there anything else I can assist you with?"
+      },
+      {
+        "role": "user",
+        "utterance": "I don't think so. Not today. Thanks for the help! Goodbye."
+      },
+      {
+        "role": "system",
+        "utterance": "Great. I hope you have a great day."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL3493.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I'm looking for a restaurant on the North end that serves yummy Chinese food"
+      },
+      {
+        "role": "system",
+        "utterance": "We have three places, but I like the hotpot. Do you need a reservation?"
+      },
+      {
+        "role": "user",
+        "utterance": "Could you tell me the price range first? and the postcode? for the hotpot?"
+      },
+      {
+        "role": "system",
+        "utterance": "The Hotpot is a moderately priced restaurant. Their post code is cb41ep."
+      },
+      {
+        "role": "user",
+        "utterance": "Great can you help me get a train from cambridge to broxbourne?"
+      },
+      {
+        "role": "system",
+        "utterance": "There are 133 trains that match that trip. To narrow it down, I need to know what day you'll be traveling and when you want to arrive by."
+      },
+      {
+        "role": "user",
+        "utterance": "I will be traveling on Wednesday and I would need to arrive in Broxbourne by 21:15."
+      },
+      {
+        "role": "system",
+        "utterance": "I have train TR5256 that leaves at 20:01 and arrives in Broxbourne at 21:01. Would that work for you?"
+      },
+      {
+        "role": "user",
+        "utterance": "That would be great. I'm traveling alone so just one seat please."
+      },
+      {
+        "role": "system",
+        "utterance": "Great. I have booked one ticket on TR5256 to broxbourne. The cost will be 17.89 GBP and your reference number is O9VNFTK9 ."
+      },
+      {
+        "role": "user",
+        "utterance": "Thanks! That's all I needed today. You've been a great help!"
+      },
+      {
+        "role": "system",
+        "utterance": "You're welcome! Enjoy your travels."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL0954.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I'm looking for pizza hut fen ditton."
+      },
+      {
+        "role": "system",
+        "utterance": "Sure, it's located at Jesus Lane Fen Ditton cb58ba"
+      },
+      {
+        "role": "user",
+        "utterance": "Great. Can you get a table for 7 for me. Saturday at 14:00."
+      },
+      {
+        "role": "system",
+        "utterance": "Ok! I have a table for 7 booked on Saturday at 14:00. The table will be reserved for 15 minutes and your Reference number is 54PRTQHD ."
+      },
+      {
+        "role": "user",
+        "utterance": "Wonderful. Could you help me find a train, as well?"
+      },
+      {
+        "role": "system",
+        "utterance": "Yes, where will you be departing from?"
+      },
+      {
+        "role": "user",
+        "utterance": "I am leaving from Cambridge."
+      },
+      {
+        "role": "system",
+        "utterance": "Where will your destination be? What day will you be traveling? When do you need to be there by?"
+      },
+      {
+        "role": "user",
+        "utterance": "I need to leave on Sunday and get to Leicester by 16:00."
+      },
+      {
+        "role": "system",
+        "utterance": "There are 5 different trains that could work. Would you like me to book the earliest one?"
+      },
+      {
+        "role": "user",
+        "utterance": "No, I'd rather have the latest one possible."
+      },
+      {
+        "role": "system",
+        "utterance": "The TR3371 meets your criteria. Would you like tickets? If so, how many?"
+      },
+      {
+        "role": "user",
+        "utterance": "Please reserve for 7 people"
+      },
+      {
+        "role": "system",
+        "utterance": "Booking for TR3371 is confirmed. Reference number is : MBSYUIFA . Total fee is 211.67 GBP payable at the station ."
+      },
+      {
+        "role": "user",
+        "utterance": "Thank you! That is all that I need."
+      },
+      {
+        "role": "system",
+        "utterance": "I hope you have a good trip. Have a great day!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "MUL1724.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "Hi, can you help me find a train out of Cambridge please?"
+      },
+      {
+        "role": "system",
+        "utterance": "I can. Where will you be traveling to?"
+      },
+      {
+        "role": "user",
+        "utterance": "I'll be headed to Peterborough, and I need to leave after 15:45."
+      },
+      {
+        "role": "system",
+        "utterance": "And what day are you traveling?"
+      },
+      {
+        "role": "user",
+        "utterance": "We would like to leave on Wednesday please."
+      },
+      {
+        "role": "system",
+        "utterance": "There are 16 trains headed to Peterborough that leave after 15:45. Do you have a preference on when you arrive in Peterborough?"
+      },
+      {
+        "role": "user",
+        "utterance": "No, I don't really care when we arrive as long4 as the departure is after 15:45"
+      },
+      {
+        "role": "system",
+        "utterance": "The TR7706 leaves at 16:05 and arrives in Peterborough by 16:56. Would you like me to book some tickets for you?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes book the tickets,also I want places to go in town and I want it to be at the center of the town."
+      },
+      {
+        "role": "system",
+        "utterance": "In the center of town we have vue cinema, cambridge contemporary art and castle galleries."
+      },
+      {
+        "role": "user",
+        "utterance": "I got ahead of myself, sorry. I don't need the train tickets just yet, but can you tell me the travel time for TR7706?"
+      },
+      {
+        "role": "system",
+        "utterance": "Yes, train TR7706 has a duration of 50 minutes."
+      },
+      {
+        "role": "user",
+        "utterance": "Thank you. Can please also confirm the phone number, post code, and address?"
+      },
+      {
+        "role": "system",
+        "utterance": "Yes, the cambridge contemporary art museum can be found at 6 trinity street, postcode cb21su, phone number 01223324222."
+      },
+      {
+        "role": "user",
+        "utterance": "Perfect, that is all that I needed. Thank you so much for your help!"
+      },
+      {
+        "role": "system",
+        "utterance": "You're welcome. Have a nice day. Good bye."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL3057.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I'm looking for a place to stay. Please list all hotels in the north that include free wifi."
+      },
+      {
+        "role": "system",
+        "utterance": "I have two hotels that match that criteria, the Ashley Hotel and the Lovell Lodge. They are both hotels."
+      },
+      {
+        "role": "user",
+        "utterance": "Which one is cheap?"
+      },
+      {
+        "role": "system",
+        "utterance": "There are no hotels in the north in the cheap price range. Both of these hotels are moderately priced. Can I check another area for you?"
+      },
+      {
+        "role": "user",
+        "utterance": "None in the north that are cheap?"
+      },
+      {
+        "role": "system",
+        "utterance": "No, none of them are cheap in the north. Would you like to change your criteria?"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "WOZ20240.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "Hi, I'm looking for an expensive restaurant in the south part of town."
+      },
+      {
+        "role": "system",
+        "utterance": "Do you have a certain type of food in mind?"
+      },
+      {
+        "role": "user",
+        "utterance": "I don't care"
+      },
+      {
+        "role": "system",
+        "utterance": "Frankie and Bennys is an expensive Italian restaurant in the south part of town. Would you like their address?"
+      },
+      {
+        "role": "user",
+        "utterance": "What other options are there?"
+      },
+      {
+        "role": "system",
+        "utterance": "In the expensive range there are two chinese restaurants and one indian in the south part of town."
+      },
+      {
+        "role": "user",
+        "utterance": "What is the address and phone number of one of them?"
+      },
+      {
+        "role": "system",
+        "utterance": "The peking restaurant is located at 10 Homerton Street City Centre, and the phone number is 01223 354755."
+      },
+      {
+        "role": "user",
+        "utterance": "That will do, thank you!"
+      },
+      {
+        "role": "system",
+        "utterance": "thank you and good bye"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL3351.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I would like it if you can help me find a place called Kambar."
+      },
+      {
+        "role": "system",
+        "utterance": "Sure thing! It is a nightclub in centre. Anything else I can help with?"
+      },
+      {
+        "role": "user",
+        "utterance": "how much does it cost to get it?"
+      },
+      {
+        "role": "system",
+        "utterance": "Kambar is only 5 pounds to get into. Would you like any more information on it?"
+      },
+      {
+        "role": "user",
+        "utterance": "yes phone number and adress please"
+      },
+      {
+        "role": "system",
+        "utterance": "Their address is 1 wheeler street, cb23qb. Their phone number is 01223842725. Will that be all?"
+      },
+      {
+        "role": "user",
+        "utterance": "Actually, can you help me find information on a train to the Stansted Airport please?"
+      },
+      {
+        "role": "system",
+        "utterance": "Sure what day are you traveling?"
+      },
+      {
+        "role": "user",
+        "utterance": "The train should depart from Cambridge on Monday after 15:45. What is the travel time, price and train ID?"
+      },
+      {
+        "role": "system",
+        "utterance": "The next train is TR1088 departing at 16:40 with a duration of 28 minutes and it costs 10.10 pounds."
+      },
+      {
+        "role": "user",
+        "utterance": "That sounds great, thank you for your help today."
+      },
+      {
+        "role": "system",
+        "utterance": "You're welcome. Did you need help with anything else?"
+      },
+      {
+        "role": "user",
+        "utterance": "That is all, thank you!"
+      },
+      {
+        "role": "system",
+        "utterance": "You're most welcome. I'm glad to be of service. Good-bye."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL0718.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "Hi. Can you help me find a restaurant?"
+      },
+      {
+        "role": "system",
+        "utterance": "What type of cuisine would you like?"
+      },
+      {
+        "role": "user",
+        "utterance": "Modern European, please."
+      },
+      {
+        "role": "system",
+        "utterance": "Sure, do you have an area or price range you are looking for?"
+      },
+      {
+        "role": "user",
+        "utterance": "I don't have a preference on price range, but would like it to be in the Centre."
+      },
+      {
+        "role": "system",
+        "utterance": "I would recommend the De Luca Cucina and Bar, located at 83 Regent Street. Would you like to reserve a table?"
+      },
+      {
+        "role": "user",
+        "utterance": "I need a table for 7 people."
+      },
+      {
+        "role": "system",
+        "utterance": "Sure I would be more than happy to help you with that when would you like to book the table for?"
+      },
+      {
+        "role": "user",
+        "utterance": "tuesday at 18:45"
+      },
+      {
+        "role": "system",
+        "utterance": "I have your table booked for 7 people on tuesday at 18:45, your reference number is L440UJKD . Can I help with anything else?"
+      },
+      {
+        "role": "user",
+        "utterance": "I also need a train from Cambridge to London Liverpool Street."
+      },
+      {
+        "role": "system",
+        "utterance": "What time will you be leaving?"
+      },
+      {
+        "role": "user",
+        "utterance": "i need to arrive there by 17:30."
+      },
+      {
+        "role": "system",
+        "utterance": "What day do you want to travel?"
+      },
+      {
+        "role": "user",
+        "utterance": "I'll be travelling on Wednesday."
+      },
+      {
+        "role": "system",
+        "utterance": "TR2815 arrives at 17:27. Does that work or is it cutting things too close for you?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes. I need 7 tickets please."
+      },
+      {
+        "role": "system",
+        "utterance": "I will book it for you now."
+      },
+      {
+        "role": "user",
+        "utterance": "Can I please get the reference number?"
+      },
+      {
+        "role": "system",
+        "utterance": "Okay i have booked you and your reference number is UZBRLH3F ."
+      },
+      {
+        "role": "user",
+        "utterance": "Thank you for your help today."
+      },
+      {
+        "role": "system",
+        "utterance": "Did you need anything else?"
+      },
+      {
+        "role": "user",
+        "utterance": "That was everything. Thank you!"
+      },
+      {
+        "role": "system",
+        "utterance": "Have a great time."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "MUL0155.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I'm looking for an expensive restaurant that serves malaysian food."
+      },
+      {
+        "role": "system",
+        "utterance": "There are no expensive Malaysian restaurants. Would you like to try a different type of food?"
+      },
+      {
+        "role": "user",
+        "utterance": "No, I was really hoping for Malaysian."
+      },
+      {
+        "role": "system",
+        "utterance": "I am very sorry, there are no malaysian restaurant results at all. Would you like help finding a hotel or attraction?"
+      },
+      {
+        "role": "user",
+        "utterance": "Maybe later. What about a restaurant that serves indian food with the same specifications?"
+      },
+      {
+        "role": "system",
+        "utterance": "There are many different Indian options. I can narrow it down for you if you tell me what area you would prefer."
+      },
+      {
+        "role": "user",
+        "utterance": "West side would be great."
+      },
+      {
+        "role": "system",
+        "utterance": "The 5 indian restaurants are: tandoori palace, cocum, rice boat, maharajah tandoori restaurant and india house. Would you like to book a table at one of these places?"
+      },
+      {
+        "role": "user",
+        "utterance": "Go ahead and book rice boat. Please also give me the postcode and phone number as well."
+      },
+      {
+        "role": "system",
+        "utterance": "Great, I'll book a table at rice boat, how many people will be dining and do you have a date and time preference?"
+      },
+      {
+        "role": "user",
+        "utterance": "I just need the phone number and postcode."
+      },
+      {
+        "role": "system",
+        "utterance": "No problem. The postcode is cb39ey and the phone number is 01223302800."
+      },
+      {
+        "role": "user",
+        "utterance": "I'll also need a place to stay. A hotel, please, in the same area as the restaurant."
+      },
+      {
+        "role": "system",
+        "utterance": "I have two four star hotels that meet your criteria, huntingdon marriott hotel and the cambridge belfry. Woul you like me to book a room at the huntingdon marriott hotel?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes, can I get the address? Oh, and do they have internet?"
+      },
+      {
+        "role": "system",
+        "utterance": "the address is kingfisher way, hinchinbrook business park, huntingdo and they do have internet."
+      },
+      {
+        "role": "user",
+        "utterance": "Excellent. I'd better also book a taxi."
+      },
+      {
+        "role": "system",
+        "utterance": "What is the departure site for the taxi and what is your destination?"
+      },
+      {
+        "role": "user",
+        "utterance": "I'll just need a taxi from the restaurant at 9:00 to the hotel . Can you provide their contact number and the car type?"
+      },
+      {
+        "role": "system",
+        "utterance": "Yes! They'll pick you up in a black skoda. Their contact number is 07619432519. How else may I assist you?"
+      },
+      {
+        "role": "user",
+        "utterance": "That was everything. Thank you very much!"
+      },
+      {
+        "role": "system",
+        "utterance": "You're welcome. I hope you enjoy your visit."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "MUL0162.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I'm looking for a cheap guesthouse."
+      },
+      {
+        "role": "system",
+        "utterance": "I found nine cheap guesthouses. Would you like to book at the Allenbell? It has 4 stars and is in the east side."
+      },
+      {
+        "role": "user",
+        "utterance": "Do you have anything on the North side?"
+      },
+      {
+        "role": "system",
+        "utterance": "There are two options on the North side, City Centre North B and B or Worth House. Would you like more information about either of those establishments?"
+      },
+      {
+        "role": "user",
+        "utterance": "I'd like to book Worth House for 2 people starting Sunday for 4 nights. Can I get the reference number please?"
+      },
+      {
+        "role": "system",
+        "utterance": "I was able to book the Worth House for you for 2 guests for a total of 4 nights. Your reference number is ZB2FS6W4 ."
+      },
+      {
+        "role": "user",
+        "utterance": "Thanks so much, I appreciate the help."
+      },
+      {
+        "role": "system",
+        "utterance": "You are certainly welcome. Is there anything else I can do for you today?"
+      },
+      {
+        "role": "user",
+        "utterance": "I'm also looking for an Indian restauarnt in the same area as the guesthouse."
+      },
+      {
+        "role": "system",
+        "utterance": "There are two Indian restaurants in the North, The Nirala, which has a moderate pricerange, and Royal Spice, which has a cheap pricerange. Which would you like to book?"
+      },
+      {
+        "role": "user",
+        "utterance": "Actually can I just have the phone number and address to The Nirala please?"
+      },
+      {
+        "role": "system",
+        "utterance": "The Nirala is located at 7 Milton Road Chesterton and it's phone number is 01223360966."
+      },
+      {
+        "role": "user",
+        "utterance": "Thanks. I will also need a taxi to take us back and forth to the restaurant at 17:45. Can I get the car type and contact number?"
+      },
+      {
+        "role": "system",
+        "utterance": "I have booked you a blue volkswagen from worth house to the nirala at 17:45. The contact number is 07301287073"
+      },
+      {
+        "role": "user",
+        "utterance": "Thank you for your help. That's all I need today!"
+      },
+      {
+        "role": "system",
+        "utterance": "You're welcome, goodbye!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL0770.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "Hi, can you please help me book a train departing from London King's Cross on Sunday?"
+      },
+      {
+        "role": "system",
+        "utterance": "We have 10 different trains for that day. Do you want to depart and/or arrive at a particular time?"
+      },
+      {
+        "role": "user",
+        "utterance": "I want to leave after 9."
+      },
+      {
+        "role": "system",
+        "utterance": "There is a train leaving at 9:17, Sunday. Would you like for me to book that?"
+      },
+      {
+        "role": "user",
+        "utterance": "I need a booking on the train for 7 people to go to Cambridge. Is that doable?"
+      },
+      {
+        "role": "system",
+        "utterance": "Yes it is. Do you have a preferred time of departure?"
+      },
+      {
+        "role": "user",
+        "utterance": "I would like to leave after 9:00."
+      },
+      {
+        "role": "system",
+        "utterance": "I have booked the train for 9:17. The reference number is BBQXVMZK . The total for 7 people is 132.16 GBP and is payable at the station. Anything else I can do for you?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes, could you please help me find a expensive danish restaurant?"
+      },
+      {
+        "role": "system",
+        "utterance": "It looks like there aren't any expensive Danish restaurants in town. Would you like me to look for another cuisine?"
+      },
+      {
+        "role": "user",
+        "utterance": "British food would be a suitable replacement I suppose."
+      },
+      {
+        "role": "system",
+        "utterance": "We have many to choose from. Any part of town work best?"
+      },
+      {
+        "role": "user",
+        "utterance": "No preference. Can you recommend one and book the same group of people on the same day please"
+      },
+      {
+        "role": "system",
+        "utterance": "Ok, I recommend the the cambridge chop house. It is in the city centre. What time would you like to eat?"
+      },
+      {
+        "role": "user",
+        "utterance": "i would like the reservation to be for sunday for 7 people at 20:15."
+      },
+      {
+        "role": "system",
+        "utterance": "Booking for 7 was successful. The table will be reserved for 15 minutes. Your reference number is EXZLQAZY . May I help you with anything else?"
+      },
+      {
+        "role": "user",
+        "utterance": "Thanks. That's all. Goodbye"
+      },
+      {
+        "role": "system",
+        "utterance": "Thanks for letting us assist you today! Enjoy your visit!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "SNG01892.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "Do you know of the Parkside Police Station?"
+      },
+      {
+        "role": "system",
+        "utterance": "It's address is Parkside, Cambridge with Postcode CB11JG"
+      },
+      {
+        "role": "user",
+        "utterance": "Thank you, what is their phone number?"
+      },
+      {
+        "role": "system",
+        "utterance": "Their phone number is 01223358966. Is there anything else I can do for you?"
+      },
+      {
+        "role": "user",
+        "utterance": "No, that's it. Thank you."
+      },
+      {
+        "role": "system",
+        "utterance": "You are most welcome!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "WOZ20616.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I would like a restaurant that serves swiss food"
+      },
+      {
+        "role": "system",
+        "utterance": "I'm sorry, we do not have any Swiss restaurants available. Do you want to try a different type of food?"
+      },
+      {
+        "role": "user",
+        "utterance": "I would like to try vietnamese food"
+      },
+      {
+        "role": "system",
+        "utterance": "Thanh Binh is a good vietnamese restaurant in the cheap price range"
+      },
+      {
+        "role": "user",
+        "utterance": "What is the address?"
+      },
+      {
+        "role": "system",
+        "utterance": "17 Magdalene Street City Centre"
+      },
+      {
+        "role": "user",
+        "utterance": "OK thank you. Good bye."
+      },
+      {
+        "role": "system",
+        "utterance": "Thank you for using our system. Good bye"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL0663.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I need a train going to cambridge after 10:15 please."
+      },
+      {
+        "role": "system",
+        "utterance": "What is your departure station please?"
+      },
+      {
+        "role": "user",
+        "utterance": "I am departing from Ely."
+      },
+      {
+        "role": "system",
+        "utterance": "great, and on what day will you be traveling?"
+      },
+      {
+        "role": "user",
+        "utterance": "I will leave Thursday."
+      },
+      {
+        "role": "system",
+        "utterance": "okay, the TR0813 leaves at 11:35 and arrives by 11:52. Would you like me to make a reservation for you?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes, please. I need tickets for seven people."
+      },
+      {
+        "role": "system",
+        "utterance": "Perfect, the train for 7 people is booked. The reference number is X5NYAW3W . Is there anything else I can help with?"
+      },
+      {
+        "role": "user",
+        "utterance": "Are there any modern european restaurants in the centre area?"
+      },
+      {
+        "role": "system",
+        "utterance": "Yes, there is the riverside brasserie, would you like to find out more about this restaurant?"
+      },
+      {
+        "role": "user",
+        "utterance": "Once you find the restaurant you want to book a table for the same group of people at 15:15 on the same day."
+      },
+      {
+        "role": "system",
+        "utterance": "You are booked for riverside brasserie. Your reference number is K7R76S78 . The table will be reserved for 15 minutes. Is there something else I can help with?"
+      },
+      {
+        "role": "user",
+        "utterance": "No that's great thank you."
+      },
+      {
+        "role": "system",
+        "utterance": "you are welcome anytime"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL1573.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I need to find a train going to londons kings cross that would arrive by 17:15"
+      },
+      {
+        "role": "system",
+        "utterance": "I have 21 trains that match your request. Where will you be departing from?"
+      },
+      {
+        "role": "user",
+        "utterance": "Leaving Cambridge this coming Sunday."
+      },
+      {
+        "role": "system",
+        "utterance": "I'm sorry, we don't have any trains arriving by 17:15. The earliest train will arrive at london kings cross at 19:51. Do you need anything else?"
+      },
+      {
+        "role": "user",
+        "utterance": "No thanks. Go ahead and book the train for 4 people and please provide the reference number."
+      },
+      {
+        "role": "system",
+        "utterance": "Your booking was successful, the total fee is 75.52 GBP payable at the station . Your reference number is : UMS71SR7 . Your train will leave at 19:00."
+      },
+      {
+        "role": "user",
+        "utterance": "Thank you. I also need to find a place to stay."
+      },
+      {
+        "role": "system",
+        "utterance": "Any particular area you would like to stay?"
+      },
+      {
+        "role": "user",
+        "utterance": "In the East part of town, please. I need free WiFi."
+      },
+      {
+        "role": "system",
+        "utterance": "Okay! Would you like to stay in a hotel, or in a guesthouse?"
+      },
+      {
+        "role": "user",
+        "utterance": "i dont mind either."
+      },
+      {
+        "role": "system",
+        "utterance": "We have seven places, any preference on price or rating?"
+      },
+      {
+        "role": "user",
+        "utterance": "I need a 4 star place that has free wifi."
+      },
+      {
+        "role": "system",
+        "utterance": "Okay! What price range would you like?"
+      },
+      {
+        "role": "user",
+        "utterance": "I don't really have a preference."
+      },
+      {
+        "role": "system",
+        "utterance": "Ok. We've narrowed to 6 options. Do you want parking?"
+      },
+      {
+        "role": "user",
+        "utterance": "No parking is not a concern of mine."
+      },
+      {
+        "role": "system",
+        "utterance": "Would you like to try allenbell?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes, please book me for 4 people, for 5 night starting on Tuesday."
+      },
+      {
+        "role": "system",
+        "utterance": "I have made those reservations and the reference number is I4K0OYPF ."
+      },
+      {
+        "role": "user",
+        "utterance": "Thank you that is all I needed."
+      },
+      {
+        "role": "system",
+        "utterance": "You're welcome. Have a great day!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "SNG0259.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I am looking for a train from Cambridge to Leicester."
+      },
+      {
+        "role": "system",
+        "utterance": "What day will you be leaving?"
+      },
+      {
+        "role": "user",
+        "utterance": "I will be leaving on Monday."
+      },
+      {
+        "role": "system",
+        "utterance": "There are 19 trains, would you like me to book you one?"
+      },
+      {
+        "role": "user",
+        "utterance": "I need to arrive in Leicester by 21:15, do you have one like that?"
+      },
+      {
+        "role": "system",
+        "utterance": "There's a train arriving at 21:06. Would you like to book that train now?"
+      },
+      {
+        "role": "user",
+        "utterance": "That will probably work. What is the travel time for that train?"
+      },
+      {
+        "role": "system",
+        "utterance": "It will be a 105 minute trip"
+      },
+      {
+        "role": "user",
+        "utterance": "Okay, that's all I needed to know. Thanks."
+      },
+      {
+        "role": "system",
+        "utterance": "Thank you for contacting Cambridge TownInfo Centre. Have a great day!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL4728.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I need a train that leaves after 10:00 on Wednesday."
+      },
+      {
+        "role": "system",
+        "utterance": "I can assist you with that. Can you tell me where you will be departing from?"
+      },
+      {
+        "role": "user",
+        "utterance": "I'd like to depart from Cambridge, going to london kings cross."
+      },
+      {
+        "role": "system",
+        "utterance": "How about TR9781 leaving Cambridge to London Kings Cross on Wednesday? It leaves at 11:00 and gets in at 11:51. It costs 23.60. Can I book this?"
+      },
+      {
+        "role": "user",
+        "utterance": "No, I don't need a booking at the moment. What's the travel time?"
+      },
+      {
+        "role": "system",
+        "utterance": "The travel time is 51 minutes. Will that be all for today?"
+      },
+      {
+        "role": "user",
+        "utterance": "Not quite yet. I'm also looking for a moderately priced hotel."
+      },
+      {
+        "role": "system",
+        "utterance": "What area would you like to stay in?"
+      },
+      {
+        "role": "user",
+        "utterance": "In the north. I really prefer 4 star hotels."
+      },
+      {
+        "role": "system",
+        "utterance": "The best that we have in the moderate price range is 2 stars. Could I help you find something else?"
+      },
+      {
+        "role": "user",
+        "utterance": "How about a guesthouse?"
+      },
+      {
+        "role": "system",
+        "utterance": "It looks like there are a number of guesthouses in the north, would you like to look for a certain price range?"
+      },
+      {
+        "role": "user",
+        "utterance": "The hotel should be in the moderate price range"
+      },
+      {
+        "role": "system",
+        "utterance": "i have 7 moderately priced hotels. do you need free parking and internet?"
+      },
+      {
+        "role": "user",
+        "utterance": "I would also want something 4 star rated. I don't need the free parking or wifi but if it comes with it thats fine."
+      },
+      {
+        "role": "system",
+        "utterance": "How about the acorn guest house?"
+      },
+      {
+        "role": "user",
+        "utterance": "Sounds good. Can you book it for 5 nights starting Friday? There are 4 of us."
+      },
+      {
+        "role": "system",
+        "utterance": "I will check their availability."
+      },
+      {
+        "role": "user",
+        "utterance": "Okay, thank you. I'll need the reference number for the booking."
+      },
+      {
+        "role": "system",
+        "utterance": "Okay, I have it booked for you. Your reference number is FTI92D9B . Anything else I can help you with?"
+      },
+      {
+        "role": "user",
+        "utterance": "That's all I needed. Thank you!"
+      },
+      {
+        "role": "system",
+        "utterance": "You're welcome, have a great day!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "SNG0059.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I would like to book a taxi that will depart from Rice Boat and should leave at 9:30."
+      },
+      {
+        "role": "system",
+        "utterance": "What is your destination?"
+      },
+      {
+        "role": "user",
+        "utterance": "The taxi should go to parkside pools."
+      },
+      {
+        "role": "system",
+        "utterance": "Your taxi is a Grey Toyota. The Contact number is 07725254029."
+      },
+      {
+        "role": "user",
+        "utterance": "Thank you, goodbye!"
+      },
+      {
+        "role": "system",
+        "utterance": "enjoy your day!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "WOZ20017.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "Hello, I am looking for a restaurant that serves Spanish food in the centre of town."
+      },
+      {
+        "role": "system",
+        "utterance": "La Raza is a cheap Spanish restaurant in the centre of town."
+      },
+      {
+        "role": "user",
+        "utterance": "What is the phone number and postcode?"
+      },
+      {
+        "role": "system",
+        "utterance": "The phone number to La Raza is 01223 464550 and its postcode is C.B 2, 3 L.L"
+      },
+      {
+        "role": "user",
+        "utterance": "Okay. Thank you, goodbye."
+      },
+      {
+        "role": "system",
+        "utterance": "Have a great day and enjoy your food."
+      },
+      {
+        "role": "user",
+        "utterance": "Thank you."
+      },
+      {
+        "role": "system",
+        "utterance": "Enjoy your day!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL0766.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I need to a train that goes to Cambridge, from Stansted Airport."
+      },
+      {
+        "role": "system",
+        "utterance": "There are 133 trains traveling from Stansted Airport to Cambridge between Friday and Wednesday. What day did you want to travel?"
+      },
+      {
+        "role": "user",
+        "utterance": "i would like to travel friday around 2pm"
+      },
+      {
+        "role": "system",
+        "utterance": "The TR2819 fits the bill, would you like me to book you passage?"
+      },
+      {
+        "role": "user",
+        "utterance": "yes please and a reference number please thank you"
+      },
+      {
+        "role": "system",
+        "utterance": "Booking was successful, the total fee is 10.1 GBP payable at the station .Reference number is : LQ076J6Z ."
+      },
+      {
+        "role": "user",
+        "utterance": "Did I mention I need two tickets? There are 2 of us. Sorry."
+      },
+      {
+        "role": "system",
+        "utterance": "Not a problem. The reference number is BYTSKQJT, and the price is 20.2 GBP, payable at the station. Is there anything else I can assist you with?"
+      },
+      {
+        "role": "user",
+        "utterance": "I also want to find a restaurant that serves Mediterranean food for a cheap price. I'd like a reservation for 2 people that same day."
+      },
+      {
+        "role": "system",
+        "utterance": "There is The Gardenia in the centre that meets your criteria. Would you like me to book it for you?"
+      },
+      {
+        "role": "user",
+        "utterance": "Sure, please book it for saturday at 17:15, for 2 people. And tell me the reference number"
+      },
+      {
+        "role": "system",
+        "utterance": "Alright I've made that booking they will hold the table for 15 minutes and the reference # is 0VES7LP4 . Is there anything else i can help you with?"
+      },
+      {
+        "role": "user",
+        "utterance": "No, that's it. Thank you. Goodbye."
+      },
+      {
+        "role": "system",
+        "utterance": "You're welcome, have a great time."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL1619.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I need a train leaving from kings lynn."
+      },
+      {
+        "role": "system",
+        "utterance": "Okay. What day will you be traveling and what is your destination please?"
+      },
+      {
+        "role": "user",
+        "utterance": "I will be traveling on Sunday and need to go to ely."
+      },
+      {
+        "role": "system",
+        "utterance": "I'm sorry, but there are no trains that travel between Kings Lynn and Ely."
+      },
+      {
+        "role": "user",
+        "utterance": "What if I left on Friday? I need to book it for 7 people and I need the reference number please."
+      },
+      {
+        "role": "system",
+        "utterance": "My apologies. Our system only calculates trips either to or from Cambridge, so we are unable to make this reservation for you."
+      },
+      {
+        "role": "user",
+        "utterance": "Can I book a train with the same requirements from Kings Lynn to Cambridge?"
+      },
+      {
+        "role": "system",
+        "utterance": "Sure. Do you still want to leave on Friday?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes, please. I need tickets for 7 people."
+      },
+      {
+        "role": "system",
+        "utterance": "I'll be happy to book that for you. Do you have a departure or arrival time preference?"
+      },
+      {
+        "role": "user",
+        "utterance": "I need to arrive by 09:45."
+      },
+      {
+        "role": "system",
+        "utterance": "There is only one train that day. TR9102 would you like me to book this?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes, for 7 people please. If I could have the reference number that would be great."
+      },
+      {
+        "role": "system",
+        "utterance": "Success! I have booked you on this train and your reference number is 9M4R8Z4V ."
+      },
+      {
+        "role": "user",
+        "utterance": "Great, thank you. I'm also looking for a 3 star guesthouse located in the north with free parking."
+      },
+      {
+        "role": "system",
+        "utterance": "Sorry, I couldn't find anything matching that."
+      },
+      {
+        "role": "user",
+        "utterance": "Are there any 3-star guesthouses at all?"
+      },
+      {
+        "role": "system",
+        "utterance": "I have found one for you. The Hamilton Lodge is a 3-star guesthouse in the north with free parking."
+      },
+      {
+        "role": "user",
+        "utterance": "Please give me their phone number, price range, and address"
+      },
+      {
+        "role": "system",
+        "utterance": "Hamilton Lodge's phone number is 01223365664, they're at 156 chesterton road, and they're moderately priced. Would you like to book a room? Or is there anything else I can help with?"
+      },
+      {
+        "role": "user",
+        "utterance": "that is it for today thank you"
+      },
+      {
+        "role": "system",
+        "utterance": "Thank you for using our services. Have we met all of your needs today?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes, I believe so. Thank you. Good bye."
+      },
+      {
+        "role": "system",
+        "utterance": "Great! And you're welcome, have a great day!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "MUL0176.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I am looking for a Danish place to eat and I would like it to be on the expensive price range."
+      },
+      {
+        "role": "system",
+        "utterance": "Sorry there is nothing matching your requests. Would you like to change your request?"
+      },
+      {
+        "role": "user",
+        "utterance": "No, thank you."
+      },
+      {
+        "role": "system",
+        "utterance": "I'm afraid I'm not finding any Danish restaurants of any type. Would you like to try a different style of restaurant?"
+      },
+      {
+        "role": "user",
+        "utterance": "How about African Food in the centre of town?"
+      },
+      {
+        "role": "system",
+        "utterance": "The bedouin meets your criteria. Would you like to book a table?"
+      },
+      {
+        "role": "user",
+        "utterance": "Maybe later, for now I would like to know its phone number and postcode."
+      },
+      {
+        "role": "system",
+        "utterance": "The phone number is 01223367660 and the postcode is cb12bd. Anything else I can do for you today?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes, I am a looking for a place to stay in the same price range as the restaurant."
+      },
+      {
+        "role": "system",
+        "utterance": "I found 5 hotels in the expensive price range, do you have an area of town you'd prefer?"
+      },
+      {
+        "role": "user",
+        "utterance": "The area doesn't matter, but I need free parking, free wifi, and a 3 star rating."
+      },
+      {
+        "role": "system",
+        "utterance": "Great, I've found two hotels meeting that criteria. How many days were you spending at the hotel and how many people will be residing with you?"
+      },
+      {
+        "role": "user",
+        "utterance": "I need a hotel for 2 people on 4 nights starting on Friday"
+      },
+      {
+        "role": "system",
+        "utterance": "The lensfield hotel is 1 of 2 places that matches your needs. Can I book you in for this hotel?"
+      },
+      {
+        "role": "user",
+        "utterance": "How do the 2 places compare?"
+      },
+      {
+        "role": "system",
+        "utterance": "The lensfield hotel is in the south while the gonville hotel is in the center."
+      },
+      {
+        "role": "user",
+        "utterance": "The centre works much much better for us. Can you please book that for me? If that doesn't work can you try 2 night?"
+      },
+      {
+        "role": "system",
+        "utterance": "So sorry, the hotel is not available for that booking request. Would you like a different day or to shorten your stay?"
+      },
+      {
+        "role": "user",
+        "utterance": "Try two nights and please give me a reference number when you are done."
+      },
+      {
+        "role": "system",
+        "utterance": "I was able to book 2 nights at the Gonville for 2 people, starting on Friday. Your reference number is WIQEBN2A . Can I help with anything else today?"
+      },
+      {
+        "role": "user",
+        "utterance": "Can you book me a taxi please? I am looking for one to pick me up at the Bedouin and I would like to leave by 18:45"
+      },
+      {
+        "role": "system",
+        "utterance": "I'd be happy to book that for you, but I just wanted to confirm your destination. Will that be your hotel?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes I will be at the Gonville."
+      },
+      {
+        "role": "system",
+        "utterance": "All right, I've booked your taxi."
+      },
+      {
+        "role": "user",
+        "utterance": "Thanks. Can I have the contact number and car type, please?"
+      },
+      {
+        "role": "system",
+        "utterance": "The contact number is 07174376196 and the car is a yellow Toyota. Anything else I can help you with?"
+      },
+      {
+        "role": "user",
+        "utterance": "No that's it. Thank you very much."
+      },
+      {
+        "role": "system",
+        "utterance": "Thank you, goodbye."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL4718.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "Hi, I'm looking for a moderately priced Italian restaurant in Cambridge."
+      },
+      {
+        "role": "system",
+        "utterance": "what about prezzo in the west?"
+      },
+      {
+        "role": "user",
+        "utterance": "I was thinking an Italian restaurant located in the east."
+      },
+      {
+        "role": "system",
+        "utterance": "PIzza Hut Fen Ditton would suit you perfectly! They're located in Cambridge Retail Park on Newmarket Road. Do you need additional information?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes, I'd like to know the postcode, please?"
+      },
+      {
+        "role": "system",
+        "utterance": "cb58wr - would you like me to book it for you?"
+      },
+      {
+        "role": "user",
+        "utterance": "Not right now. I would like to find a place to stay, though."
+      },
+      {
+        "role": "system",
+        "utterance": "Do you know what area you would like to stay in?"
+      },
+      {
+        "role": "user",
+        "utterance": "Nah, the area doesn't matter, I coming to celebrate so just as long as it's an expensive, 4-star hotel, I'm good."
+      },
+      {
+        "role": "system",
+        "utterance": "Do you need Parking or internet?"
+      },
+      {
+        "role": "user",
+        "utterance": "No I do not need to have free parking."
+      },
+      {
+        "role": "system",
+        "utterance": "Would you like me to book you a room?"
+      },
+      {
+        "role": "user",
+        "utterance": "yes for 2 nights starting thursday"
+      },
+      {
+        "role": "system",
+        "utterance": "Before I finish booking your room at the university arms hotel. Can you confirm how many people will be staying?"
+      },
+      {
+        "role": "user",
+        "utterance": "There will be 5 people."
+      },
+      {
+        "role": "system",
+        "utterance": "Those reservations have been made and your reference number is WULZ2VEX ."
+      },
+      {
+        "role": "user",
+        "utterance": "Great. Thank you. That is all I need."
+      },
+      {
+        "role": "system",
+        "utterance": "Awesome! Have a great trip!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL1668.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I'm looking for trains for Thursday."
+      },
+      {
+        "role": "system",
+        "utterance": "Sure. Where are you headed?"
+      },
+      {
+        "role": "user",
+        "utterance": "I'm going to Cambridge."
+      },
+      {
+        "role": "system",
+        "utterance": "We have 202 trains heading to Cambridge on Thursday. Where would you be departing from?"
+      },
+      {
+        "role": "user",
+        "utterance": "I am leaving from Peterborough."
+      },
+      {
+        "role": "system",
+        "utterance": "Do you have time you would like to leave or arrive?"
+      },
+      {
+        "role": "user",
+        "utterance": "I would like to arrive by 21:15."
+      },
+      {
+        "role": "system",
+        "utterance": "Would you like an early morning departure? Or is there a more convenient departure time for you?"
+      },
+      {
+        "role": "user",
+        "utterance": "It does not matter. Please go ahead and book a train and provide the price and departure time."
+      },
+      {
+        "role": "system",
+        "utterance": "i have booked TR7094 and leaves 07:19 with a price of 16.50 pounds"
+      },
+      {
+        "role": "user",
+        "utterance": "Im also looking for an expensive hotel in the west."
+      },
+      {
+        "role": "system",
+        "utterance": "The only hotel that came up is huntingdon marriott hotel on kingfisher way, hinchinbrook business park, huntingdon do you want me to book it?"
+      },
+      {
+        "role": "user",
+        "utterance": "Do they have free wifi? I also prefer that it have 2 stars."
+      },
+      {
+        "role": "system",
+        "utterance": "Huntingdon marriott hotel does have internet but it has 4 stars. Do you want to book there or prefer something else?"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL0775.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "Can I ask you for a restaurant suggestion in the north today?"
+      },
+      {
+        "role": "system",
+        "utterance": "Okay, there are 9 different available restaurants. What type of food would you like to eat?"
+      },
+      {
+        "role": "user",
+        "utterance": "What types of expensive restaurants are in that part of town?"
+      },
+      {
+        "role": "system",
+        "utterance": "I have Asian Oriental, Chinese, French, Italian and Indian. Any preference?"
+      },
+      {
+        "role": "user",
+        "utterance": "I would like to try French and I need a reservation for 2 people at 12:45 on Friday."
+      },
+      {
+        "role": "system",
+        "utterance": "I have booked you for Restaurant Two Two. The table will be reserved 15 minutes after 12:45. Reference number is 6BD74VBB . Is there anything else I can do?"
+      },
+      {
+        "role": "user",
+        "utterance": "I am looking for a train going to Cambridge and should depart from King Lynn arriving by 08:15"
+      },
+      {
+        "role": "system",
+        "utterance": "What day will you be traveling?"
+      },
+      {
+        "role": "user",
+        "utterance": "I need it on Friday."
+      },
+      {
+        "role": "system",
+        "utterance": "There is a train arriving at 07:58 would you like me to book tickets for that one?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes, I need 2 tickets please."
+      },
+      {
+        "role": "system",
+        "utterance": "Your booking was successful, the total fee is 19.6 GBP payable at the station . Reference number is : SKG9JJLB . What else can I help you with today?"
+      },
+      {
+        "role": "user",
+        "utterance": "that is it for today. have a god day"
+      },
+      {
+        "role": "system",
+        "utterance": "You're welcome! And thank you, likewise!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "MUL2550.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "Hello, I'm looking for a swimming pool in town."
+      },
+      {
+        "role": "system",
+        "utterance": "There are four pool options, any preference for area?"
+      },
+      {
+        "role": "user",
+        "utterance": "No, but could you tell me if they have any entrance fees."
+      },
+      {
+        "role": "system",
+        "utterance": "I found 4 swimming pools, but there are not information about the entrance fee."
+      },
+      {
+        "role": "user",
+        "utterance": "Can you help me find a 4 star hotel that offers free parking?"
+      },
+      {
+        "role": "system",
+        "utterance": "I found 5 hotels with free parking. What area and stars do you prefer?"
+      },
+      {
+        "role": "user",
+        "utterance": "I don't care about the area, but it does need to be 4 stars, as I mentioned earlier."
+      },
+      {
+        "role": "system",
+        "utterance": "I recommend Huntingdon Marriott, it's an expensive 4 star hotel in the west. They have free parking as requested. Would you like me to book it?"
+      },
+      {
+        "role": "user",
+        "utterance": "No thank you, may I please get the postcode for Huntingdon Marriott?"
+      },
+      {
+        "role": "system",
+        "utterance": "Absolutely! Their post code is pe296fl. Can I be any further help to you?"
+      },
+      {
+        "role": "user",
+        "utterance": "Can you also find me a taxi to get to the two places?"
+      },
+      {
+        "role": "system",
+        "utterance": "I'm sorry. Where will you be departing from, and at what time?"
+      },
+      {
+        "role": "user",
+        "utterance": "I would like to leave the hotel at 24:30."
+      },
+      {
+        "role": "system",
+        "utterance": "I have you booked. Your taxi is a yellow bmw contact number is 07777787318. ."
+      },
+      {
+        "role": "user",
+        "utterance": "Great! Thank you for all your help!"
+      },
+      {
+        "role": "system",
+        "utterance": "You are welcome. Is there anything else I can help you with?"
+      },
+      {
+        "role": "user",
+        "utterance": "I'm sorry, I actually am looking for the postcode of the cheaper hotel of the 5. And a taxi from there instead."
+      },
+      {
+        "role": "system",
+        "utterance": "Sure. The Cambridge Belfry is a cheap 4 star hotel. Postcode is cb236bw. Taxi is booked. Car is a black bmw and contact number is 07510940370."
+      },
+      {
+        "role": "user",
+        "utterance": "Great, you've been a great help. Thank you."
+      },
+      {
+        "role": "system",
+        "utterance": "I am very pleased to have helped you today."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL2794.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I'm looking for a college to visit in the centre of town."
+      },
+      {
+        "role": "system",
+        "utterance": "There are some nice campuses there. I particularly like Downing College on Regent Street. Do you have any particular questions I can answer?"
+      },
+      {
+        "role": "user",
+        "utterance": "What is the address of Downing College."
+      },
+      {
+        "role": "system",
+        "utterance": "That address is regent street."
+      },
+      {
+        "role": "user",
+        "utterance": "What about the postcode?"
+      },
+      {
+        "role": "system",
+        "utterance": "The postcode is cb21dq."
+      },
+      {
+        "role": "user",
+        "utterance": "Thank you. I'd also like some hotel information."
+      },
+      {
+        "role": "system",
+        "utterance": "What would you like me to look up for you?"
+      },
+      {
+        "role": "user",
+        "utterance": "I need a room for 5 people, 4 nights at the Acorn Guest House. We'll arrive on Sunday."
+      },
+      {
+        "role": "system",
+        "utterance": "Okay you got it. I made your reservation, and the reference number is DCJI0F6E ."
+      },
+      {
+        "role": "user",
+        "utterance": "Thanks! That's all I need."
+      },
+      {
+        "role": "system",
+        "utterance": "Great. I hope you have a nice trip. Bye."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "SNG0618.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I am looking for an expensive restaurant in the centre"
+      },
+      {
+        "role": "system",
+        "utterance": "There are 33 restaurants in the centre serving expensive food. What type of food would you like?"
+      },
+      {
+        "role": "user",
+        "utterance": "The restaurant should serve japanese food."
+      },
+      {
+        "role": "system",
+        "utterance": "Can I book Wamagama restaurant for you? It's a perfect fit."
+      },
+      {
+        "role": "user",
+        "utterance": "I actually would just like their address, postcode and telephone number at this time."
+      },
+      {
+        "role": "system",
+        "utterance": "Wagamama is located at 36 Saint Andrews Street, postcode cb23ar, phone 01223462354. Do you need any further assistance?"
+      },
+      {
+        "role": "user",
+        "utterance": "That is all I need. Thanks for all your help!"
+      },
+      {
+        "role": "system",
+        "utterance": "I'm glad I could help. Have a great day and thanks for contacting Cambridge TownInfo centre!"
+      },
+      {
+        "role": "user",
+        "utterance": "Okay, I will. Thanks again. Bye!"
+      },
+      {
+        "role": "system",
+        "utterance": "Enjoy your stay! Bye"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL4752.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I'm looking for theatres in the centre of town."
+      },
+      {
+        "role": "system",
+        "utterance": "The adc theatre is a nice attraction."
+      },
+      {
+        "role": "user",
+        "utterance": "Great. Can I have the address please?"
+      },
+      {
+        "role": "system",
+        "utterance": "ADC Theatre is located on Park Street in postcode CB58AS. Their phone number is 01223300085. Can I help you with anything else?"
+      },
+      {
+        "role": "user",
+        "utterance": "I would love some help finding a nice restaurant to take my wife to. Something expensive."
+      },
+      {
+        "role": "system",
+        "utterance": "Are you looking for a particular type of food?"
+      },
+      {
+        "role": "user",
+        "utterance": "Not really, but I would prefer it to be in the Centre also, close to the theatre."
+      },
+      {
+        "role": "system",
+        "utterance": "There are a few options in the Centre including Bedouin, an African restaurant, and Midsummer House Restaurant, a traditional British restaurant. Do these interest you?"
+      },
+      {
+        "role": "user",
+        "utterance": "Let's do the Midsummer House. I want to book a table for 3 people at 14:45 on wednesday."
+      },
+      {
+        "role": "system",
+        "utterance": "I've booked your table! It will be reserved for 15 minutes."
+      },
+      {
+        "role": "user",
+        "utterance": "Could i get the reference number please?"
+      },
+      {
+        "role": "system",
+        "utterance": "Your reference number is PIVQLKXA . Is there anything else I can help you find today?"
+      },
+      {
+        "role": "user",
+        "utterance": "No that is it. Thank you."
+      },
+      {
+        "role": "system",
+        "utterance": "Thank you for using the Cambridge Town Info Centre Services. I hope you enjoy your time in Cambridge!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "SNG1397.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "Hello I am looking for a college, can you help me?"
+      },
+      {
+        "role": "system",
+        "utterance": "There are 18 colleges in the city. Are you looking for one in particular?"
+      },
+      {
+        "role": "user",
+        "utterance": "Do you have any in the centre?"
+      },
+      {
+        "role": "system",
+        "utterance": "There are 5 located in the centre. Would you prefer one that is free?"
+      },
+      {
+        "role": "user",
+        "utterance": "Sure! Which one do you recommend?"
+      },
+      {
+        "role": "system",
+        "utterance": "I love Downing College over on regent street."
+      },
+      {
+        "role": "user",
+        "utterance": "What is the phone number and postcode for that one?"
+      },
+      {
+        "role": "system",
+        "utterance": "The postcode is cb21dq and they can be reached at 01223334860. Is there anything else I can assist you with?"
+      },
+      {
+        "role": "user",
+        "utterance": "Could I get the complete address please?"
+      },
+      {
+        "role": "system",
+        "utterance": "Sure, the complete address for downing college is regent street post code cb21dq. May I assist with anything else?"
+      },
+      {
+        "role": "user",
+        "utterance": "No, you have helped me. Thank you!"
+      },
+      {
+        "role": "system",
+        "utterance": "Great. I hope you enjoy your visit. Call us back if you need further assistance. Goodbye."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "MUL2231.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I would like to come visit cambridge and need a train."
+      },
+      {
+        "role": "system",
+        "utterance": "Where will you be departing from?"
+      },
+      {
+        "role": "user",
+        "utterance": "I am leaving from Birmingham New Street and want to leave on Tuesday."
+      },
+      {
+        "role": "system",
+        "utterance": "Sure, is there a particular time you'd like to either arrive or leave by?"
+      },
+      {
+        "role": "user",
+        "utterance": "I need a train that will leave after 12:15 please."
+      },
+      {
+        "role": "system",
+        "utterance": "TR0734 leaves at 12:40, would that be okay?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes, can you please make a booking for 4 people?"
+      },
+      {
+        "role": "system",
+        "utterance": "Okay, I've done that for you. Your reference number is G1ZZIBBD"
+      },
+      {
+        "role": "user",
+        "utterance": "Thank you. I'm also looking for a hotel called cityroomz."
+      },
+      {
+        "role": "system",
+        "utterance": "I've found cityroomz. Would you like a room booked?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes, please book the room for 4 people and 4 nights starting from Tuesday."
+      },
+      {
+        "role": "system",
+        "utterance": "Your Cityroomz reservation has been made and your reference number is 0R3345MS . Can I help you with anything else?"
+      },
+      {
+        "role": "user",
+        "utterance": "No that is everything thank you"
+      },
+      {
+        "role": "system",
+        "utterance": "Okay great, have a good day!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "SNG01688.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "Am looking for the Addenbrookes Hospital"
+      },
+      {
+        "role": "system",
+        "utterance": "The hospital is located in Hills Rd, Cambridge, Postcode CB20QQ. Is there a particular department you were looking for?"
+      },
+      {
+        "role": "user",
+        "utterance": "I need the phone number"
+      },
+      {
+        "role": "system",
+        "utterance": "The general phone number for the hospital is 01223245151. Do you need any further assistance?"
+      },
+      {
+        "role": "user",
+        "utterance": "Thanks, that's all. Good bye."
+      },
+      {
+        "role": "system",
+        "utterance": "Thank you for using our services."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "SNG02167.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I need a taxi today after 05:45"
+      },
+      {
+        "role": "system",
+        "utterance": "Okay. Where do you want to leave from?"
+      },
+      {
+        "role": "user",
+        "utterance": "I'll need to be picked up at holy trinity church, heading to byard art."
+      },
+      {
+        "role": "system",
+        "utterance": "I have you all booked. Red Tesla, 746155219."
+      },
+      {
+        "role": "user",
+        "utterance": "Great. Thank you!"
+      },
+      {
+        "role": "system",
+        "utterance": "Can I help with anything else?"
+      },
+      {
+        "role": "user",
+        "utterance": "Nope, that should do it.Thanks for your assistance!"
+      },
+      {
+        "role": "system",
+        "utterance": "You have a nice day. Goodbye."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "SNG0281.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I need to book a train."
+      },
+      {
+        "role": "system",
+        "utterance": "Where are you departing from, and what is your destination?"
+      },
+      {
+        "role": "user",
+        "utterance": "I'm at Bishops Stortford and would like to go to Cambridge."
+      },
+      {
+        "role": "system",
+        "utterance": "The travel time for that route is 38 minutes. What day would you be traveling?"
+      },
+      {
+        "role": "user",
+        "utterance": "I would like to travel this Wednesday and need to leave after 08:15."
+      },
+      {
+        "role": "system",
+        "utterance": "There are 8 trains that leave after 8:15, did you have a specific arrival time in mind?"
+      },
+      {
+        "role": "user",
+        "utterance": "No, anytime after 8:15 is fine. Maybe the first train after that time."
+      },
+      {
+        "role": "system",
+        "utterance": "Okay I have the 9:29 that arrives at 10:07. Would you like to book that?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes, that works, I need the travel time, and the train ID please."
+      },
+      {
+        "role": "system",
+        "utterance": "Sure, Train ID is TR9178 and travel time is 38 minutes. How many tickets do you need?"
+      },
+      {
+        "role": "user",
+        "utterance": "I actually don't need to book right now. Sorry for the confusion."
+      },
+      {
+        "role": "system",
+        "utterance": "OK, is that all you needed today, then?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes that's all the info I needed thank you!"
+      },
+      {
+        "role": "system",
+        "utterance": "You're quite welcome. Thanks for contacting the Cambridge TownInfo Centre and have a great day!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL4594.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I'd like to find out if there are any 4-star rated guesthouses in Cambridge"
+      },
+      {
+        "role": "system",
+        "utterance": "There are quite a few. What area do you prefer?"
+      },
+      {
+        "role": "user",
+        "utterance": "I'm open to any area as long as there is free wifi."
+      },
+      {
+        "role": "system",
+        "utterance": "Then I recommend the a and b guest house. Would you like me to book you a room?"
+      },
+      {
+        "role": "user",
+        "utterance": "Does that also have free parking available?"
+      },
+      {
+        "role": "system",
+        "utterance": "No, it doesn't. Should I recommend you a place with free parking instead?"
+      },
+      {
+        "role": "user",
+        "utterance": "no but i am looking for a particular restaurant. Its name is called bangkok city"
+      },
+      {
+        "role": "system",
+        "utterance": "Bangkok City is an expensive thai restaurant in the centre of town. They are located at 24 Green Street City Centre. Their postcode is cb23jx. Would you like a reservation?"
+      },
+      {
+        "role": "user",
+        "utterance": "All I needed today was the address, thank you."
+      },
+      {
+        "role": "system",
+        "utterance": "thank you for inquiring with us."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "WOZ20156.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I would like an expensive restaurant that serves turkish food"
+      },
+      {
+        "role": "system",
+        "utterance": "I'm sorry, we don't have any expensive Turkish restaurants."
+      },
+      {
+        "role": "user",
+        "utterance": "how about a moderate one ?"
+      },
+      {
+        "role": "system",
+        "utterance": "Anatolia and Efes Restaurant are both moderately priced Turkish restaurants, and both are in the centre of town. Would you like an address or phone number for one of them?"
+      },
+      {
+        "role": "user",
+        "utterance": "yes. address and phone number for Anatolia."
+      },
+      {
+        "role": "system",
+        "utterance": "Anatolia is at 30 Bridge Street City Centre, and the phone number is 01223 362372. Can I get you any further information?"
+      },
+      {
+        "role": "user",
+        "utterance": "What is the postcode?"
+      },
+      {
+        "role": "system",
+        "utterance": "The postcode is Anatolia is C.B 2, 1 U.J."
+      },
+      {
+        "role": "user",
+        "utterance": "Thank you goodbye."
+      },
+      {
+        "role": "system",
+        "utterance": "You're welcome. Goodbye."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "SNG01454.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I am trying to find a train leaving after 15:15 to go to broxbourne."
+      },
+      {
+        "role": "system",
+        "utterance": "TR5694 cambridge broxbourne friday 16:01 17:01 17.90 pounds 60 minutes"
+      },
+      {
+        "role": "user",
+        "utterance": "Is there any that are closer to leaving at 15:15?"
+      },
+      {
+        "role": "system",
+        "utterance": "Which day were you planning to travel to Broxbourne?"
+      },
+      {
+        "role": "user",
+        "utterance": "I am looking at traveling on Sunday."
+      },
+      {
+        "role": "system",
+        "utterance": "Please confirm you are leaving from Cambridge. If yes, TR6870 leaving 16:01, hourly, is the closest time. 15:01 is too early."
+      },
+      {
+        "role": "user",
+        "utterance": "Yes, I am leaving from Cambrige. How long is the travel time?"
+      },
+      {
+        "role": "system",
+        "utterance": "Booking was successful, the total fee is 14.32 GBP payable at the station . Reference number is : EWSOVUHU ."
+      },
+      {
+        "role": "user",
+        "utterance": "Could you please tell me the train ID, arrival time, and travel time?"
+      },
+      {
+        "role": "system",
+        "utterance": "The travel time is 60 minutes."
+      },
+      {
+        "role": "user",
+        "utterance": "I need all three things please, train id, arrival time and travel time."
+      },
+      {
+        "role": "system",
+        "utterance": "Read the previous lines please! number TR6870, arrival 17:01, travel time 60 minutes."
+      },
+      {
+        "role": "user",
+        "utterance": "Okay. Thank you for all of your help. Have a good day now."
+      },
+      {
+        "role": "system",
+        "utterance": "Thank you, good bye"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL4876.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I am looking for a train leaving after 16:15 on friday."
+      },
+      {
+        "role": "system",
+        "utterance": "Where will you be traveling from and to?"
+      },
+      {
+        "role": "user",
+        "utterance": "The train should depart from cambridge and arrive at leicester."
+      },
+      {
+        "role": "system",
+        "utterance": "Okay. The TR0094 meets your criteria. Would you like more information or would you like to book tickets?"
+      },
+      {
+        "role": "user",
+        "utterance": "book for 1 person and get me reference number"
+      },
+      {
+        "role": "system",
+        "utterance": "Okay, your ticket is booked! Reference number UYWWVHK8 . Can I be of any further help?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes please. I'm looking for a good museum in town. Can you suggest one that you like?"
+      },
+      {
+        "role": "system",
+        "utterance": "Are you looking for one in a particular area?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes, the west please."
+      },
+      {
+        "role": "system",
+        "utterance": "we have quite a few in the west, how can I help you?"
+      },
+      {
+        "role": "user",
+        "utterance": "Can you please provide me a list of museum options?"
+      },
+      {
+        "role": "system",
+        "utterance": "We have five museums in the west area. I would recommend the Lynne Strover Gallery. Would you like information on some of the other museums?"
+      },
+      {
+        "role": "user",
+        "utterance": "Can you give me the postcode, entrance fee, and address of one?"
+      },
+      {
+        "role": "system",
+        "utterance": "The lynne strover gallery is located at 23 high street, fen ditton, postcode cb30aq, and is free. May I help you with something else?"
+      },
+      {
+        "role": "user",
+        "utterance": "no thanks that is enough for today"
+      },
+      {
+        "role": "system",
+        "utterance": "You're welcome! Bye!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL1354.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I'm looking for a boat attraction in the south."
+      },
+      {
+        "role": "system",
+        "utterance": "There are plenty attractions to choose from."
+      },
+      {
+        "role": "user",
+        "utterance": "Any in the south?"
+      },
+      {
+        "role": "system",
+        "utterance": "I am not finding a boat attraction in the South. There are other types of attractions. Did you have anything else in mind?"
+      },
+      {
+        "role": "user",
+        "utterance": "Sure, how about a theatre attraction?"
+      },
+      {
+        "role": "system",
+        "utterance": "The Junction is a theatre in the south side on Clifton Way. Would you like more information about it?"
+      },
+      {
+        "role": "user",
+        "utterance": "Okay, thank you. May I get the entrance fee please? And also the address?"
+      },
+      {
+        "role": "system",
+        "utterance": "I'm sorry, I not have the information about the entry fee."
+      },
+      {
+        "role": "user",
+        "utterance": "Okay. Can you just provide the address?"
+      },
+      {
+        "role": "system",
+        "utterance": "The address is simply Clifton Way. No number."
+      },
+      {
+        "role": "user",
+        "utterance": "I need a train on sunday from cambridge to kings lynn. I'd like to arrive by 09:45. How long is the travel and what is the price? What is train ID?"
+      },
+      {
+        "role": "system",
+        "utterance": "I can put you on TR8042 leaving Cambridge Sunday at 8:11 and arriving at 8:58. It will take 47 minutes and costs 7.84 pounds."
+      },
+      {
+        "role": "user",
+        "utterance": "No, I don't need the booking today."
+      },
+      {
+        "role": "system",
+        "utterance": "Is there anything else I can help you with?"
+      },
+      {
+        "role": "user",
+        "utterance": "That is all, thank you!"
+      },
+      {
+        "role": "system",
+        "utterance": "Thank you, I'm glad that I could help!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL2602.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "Where are some places to visit in the centre?"
+      },
+      {
+        "role": "system",
+        "utterance": "There are several museums would you like their info?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes that would be great all the info thanks."
+      },
+      {
+        "role": "system",
+        "utterance": "I think you'd enjoy Byard art."
+      },
+      {
+        "role": "user",
+        "utterance": "Is there an entrance fee? Please provide a phone number. Also I need a place to stay that has free wifi and parking. Can you suggest a decent place?"
+      },
+      {
+        "role": "system",
+        "utterance": "The entrance is free. Is there anything else you would like to know?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes, I'm also looking for a place to stay with free wifi and free parking."
+      },
+      {
+        "role": "system",
+        "utterance": "You asked for the byard art phone number which is 01223464646. Regarding lodgings, there are 29 meeting your requirements. What is your price range and preferred area, please?"
+      },
+      {
+        "role": "user",
+        "utterance": "I would like it to be in the centre, or near the attraction. Also want it to be cheap."
+      },
+      {
+        "role": "system",
+        "utterance": "I have two options in the centre of town. One has 0 stars and the other has 4 stars. Would you be interested in booking either?"
+      },
+      {
+        "role": "user",
+        "utterance": "No I don't have a preference. Would you recommend one or the other for me?"
+      },
+      {
+        "role": "system",
+        "utterance": "I would recommend Alexander bed and breakfast which if four stars. Would you like me to book it for you?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes please start a booking there. 6 people will be staying."
+      },
+      {
+        "role": "system",
+        "utterance": "What day would you like to start the reservation?"
+      },
+      {
+        "role": "user",
+        "utterance": "I will get there Thursday."
+      },
+      {
+        "role": "system",
+        "utterance": "Okay, I have started your booking and now I just need to know how many days you plan to stay."
+      },
+      {
+        "role": "user",
+        "utterance": "It will be 5 nights"
+      },
+      {
+        "role": "system",
+        "utterance": "You're all set. The reference number for this stay is GGT8F3N0 ."
+      },
+      {
+        "role": "user",
+        "utterance": "Thanks so much! That was the last thing I needed taken care of. I feel ready for my trip now. Goodbye!"
+      },
+      {
+        "role": "system",
+        "utterance": "Thanks for contacting Cambridge TownInfo centre. Have a great day."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL1824.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I would like a train going to kings lynn."
+      },
+      {
+        "role": "system",
+        "utterance": "The TR3112 will get you there by 05:58. Will that work?"
+      },
+      {
+        "role": "user",
+        "utterance": "I don't want to leave until after 17:30."
+      },
+      {
+        "role": "system",
+        "utterance": "Okay, there are many options for you to leave after 17:30 to Kings Lynn. Where are you departing from?"
+      },
+      {
+        "role": "user",
+        "utterance": "From Cambridge."
+      },
+      {
+        "role": "system",
+        "utterance": "What day will you travel?"
+      },
+      {
+        "role": "user",
+        "utterance": "I'll be leaving on Tuesday"
+      },
+      {
+        "role": "system",
+        "utterance": "Great. There are several trains available. What time would you like to leave by?"
+      },
+      {
+        "role": "user",
+        "utterance": "I would like to leave after 17:30."
+      },
+      {
+        "role": "system",
+        "utterance": "I can get you a ticket on TR9452 it will arrive by 18:58, how many tickets please?"
+      },
+      {
+        "role": "user",
+        "utterance": "I just need one ticket for myself. Can I get a reference number?"
+      },
+      {
+        "role": "system",
+        "utterance": "Booking was successful, the total fee is 9.8 GBP payable at the station. Reference number is : E9TVYR9Y . You are all set. Is there anything more I can help you with?"
+      },
+      {
+        "role": "user",
+        "utterance": "I am also looking for a hotel in the north with 4 stars and free parking. I would like to book for 2 nights starting sunday."
+      },
+      {
+        "role": "system",
+        "utterance": "Sounds like your in a hurry, lets find a place before booking. Right now I see nothing that matches you search for hotel or guesthouse."
+      },
+      {
+        "role": "user",
+        "utterance": "Oh no, that's not good! I really wanted them to book a hotel that matches my criteria. Oh well."
+      },
+      {
+        "role": "system",
+        "utterance": "Ok don't worry i'm happy to help. Can I try a different area or star rating?"
+      },
+      {
+        "role": "user",
+        "utterance": "How about a guesthouse instead?"
+      },
+      {
+        "role": "system",
+        "utterance": "There are no guest houses matching either. Can we try a different star rating or area?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes that does sound good."
+      },
+      {
+        "role": "system",
+        "utterance": "acorn guest house is in the north, it has a 4 star rating with free parking. Will this work for you?"
+      },
+      {
+        "role": "user",
+        "utterance": "book for the same number of people and 2 nights starting sunday"
+      },
+      {
+        "role": "system",
+        "utterance": "that was just for yourself, correct?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes 1 person please."
+      },
+      {
+        "role": "system",
+        "utterance": "Ok you are booked at the Acorn Guesthouse for 2 days starting Sunday. Your reference number is WTCEQW . Will there be anything else?"
+      },
+      {
+        "role": "user",
+        "utterance": "That is all I need."
+      },
+      {
+        "role": "system",
+        "utterance": "Fantastic! Enjoy your trip. Goodbye"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL0647.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "Do you know where I can find the Peking Restaurant?"
+      },
+      {
+        "role": "system",
+        "utterance": "The Peking Restaurant is located at 10 Homerton Street in Centre."
+      },
+      {
+        "role": "user",
+        "utterance": "What is the price range?"
+      },
+      {
+        "role": "system",
+        "utterance": "The Peking Restaurant is an expensive restaurant. Were you interested or did you want to keep looking?"
+      },
+      {
+        "role": "user",
+        "utterance": "What type of food do they serve?"
+      },
+      {
+        "role": "system",
+        "utterance": "They serve chinese food. Would you like to make a booking today?"
+      },
+      {
+        "role": "user",
+        "utterance": "Maybe but could I have the postcode,food preference and phone number fot this Indiana Restaurants?"
+      },
+      {
+        "role": "system",
+        "utterance": "I'm sorry, I don't see any Indiana restaurants."
+      },
+      {
+        "role": "user",
+        "utterance": "No, if I could get the phone number for the peking restaurant, that would be good."
+      },
+      {
+        "role": "system",
+        "utterance": "You can phone them at 01223354755. What else can I do for you?"
+      },
+      {
+        "role": "user",
+        "utterance": "That was all I needed. Thank you,"
+      },
+      {
+        "role": "system",
+        "utterance": "Your welcome. Please contact us anytime."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL3863.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "i need a place to stay"
+      },
+      {
+        "role": "system",
+        "utterance": "OK, what area or price range do you have in mind?"
+      },
+      {
+        "role": "user",
+        "utterance": "No particular price range but I would like for it to have free parking internet with a 2 stars."
+      },
+      {
+        "role": "system",
+        "utterance": "You have a choice of three, two in the North and one in the west."
+      },
+      {
+        "role": "user",
+        "utterance": "North work for me, Ill go with what you pick, just need the price range, hotel type and postal code so I can plan ahead."
+      },
+      {
+        "role": "system",
+        "utterance": "Ashley hotel is nice. It's a moderately priced hotel in the north. The postcode is cb41er. Can I book it for you?"
+      },
+      {
+        "role": "user",
+        "utterance": "Not yet. Do you have a price range for that hotel?"
+      },
+      {
+        "role": "system",
+        "utterance": "It is moderately priced."
+      },
+      {
+        "role": "user",
+        "utterance": "Does it have a pool?"
+      },
+      {
+        "role": "system",
+        "utterance": "I am unsure but it does have free wifi and parking. Would you like me to book a reservation for you?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes, I do need a reservation."
+      },
+      {
+        "role": "system",
+        "utterance": "When will you start your stay and for how long?"
+      },
+      {
+        "role": "user",
+        "utterance": "You know what? I think I'm going to hold off on the hotel reservation right now. Is there a swimiming pool near there?"
+      },
+      {
+        "role": "system",
+        "utterance": "There are two, jesus green outdoor pool and kings hedges learner pool."
+      },
+      {
+        "role": "user",
+        "utterance": "is one of them free?"
+      },
+      {
+        "role": "system",
+        "utterance": "Neither prices are listed and can vary by season and day, you would have to call them, jesus green can be reached at 01223302579, kings hedges at 01223353248, any preference?"
+      },
+      {
+        "role": "user",
+        "utterance": "YES , i could want to book a taxi to commute between the two places."
+      },
+      {
+        "role": "system",
+        "utterance": "what time do you want to leave?"
+      },
+      {
+        "role": "user",
+        "utterance": "I would like to leave the hotel by 02:45."
+      },
+      {
+        "role": "system",
+        "utterance": "at what time do want to arrive"
+      },
+      {
+        "role": "user",
+        "utterance": "i dont have a specific time to arrive"
+      },
+      {
+        "role": "system",
+        "utterance": "where are you leaving from?"
+      },
+      {
+        "role": "user",
+        "utterance": "i will be leaving from the hotel"
+      },
+      {
+        "role": "system",
+        "utterance": "headed to what place?"
+      },
+      {
+        "role": "user",
+        "utterance": "This conversation has gotten a little confused, hasn't it? I'd like to go to Kings Hedges Learner pool, please."
+      },
+      {
+        "role": "system",
+        "utterance": "I am the floor manager, I apologize, we are training a new crew. I have your taxi booked, look for a black honda, they can be reached at 07639528951."
+      },
+      {
+        "role": "user",
+        "utterance": "Thank you that was all I needed goodbye."
+      },
+      {
+        "role": "system",
+        "utterance": "Thank you for using our service."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL3112.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I need help finding a guesthouse to stay at."
+      },
+      {
+        "role": "system",
+        "utterance": "I have a number of different guesthouses available. Do you want to stay in a particular part of town?"
+      },
+      {
+        "role": "user",
+        "utterance": "I'd like the east part of town please."
+      },
+      {
+        "role": "system",
+        "utterance": "Warkworth House is a great place. They are rated 4 stars, moderately priced and offer free parking and internet."
+      },
+      {
+        "role": "user",
+        "utterance": "That sound perfect. Could I make a booking for 6 people?"
+      },
+      {
+        "role": "system",
+        "utterance": "Of course! What day and how many nights?"
+      },
+      {
+        "role": "user",
+        "utterance": "I'll be starting my stay on this coming Sunday."
+      },
+      {
+        "role": "system",
+        "utterance": "How many days will you be staying?"
+      },
+      {
+        "role": "user",
+        "utterance": "5 nights please."
+      },
+      {
+        "role": "system",
+        "utterance": "Booking was successful. Reference number is : T212RFL5 ."
+      },
+      {
+        "role": "user",
+        "utterance": "Do you know of a restaurant by the name of gourmet burger kitchen?"
+      },
+      {
+        "role": "system",
+        "utterance": "Yes, Gourmet Burger Kitchen has North American cuisine and is expensive. It is located in the City Centre."
+      },
+      {
+        "role": "user",
+        "utterance": "can you tell me the phone number please"
+      },
+      {
+        "role": "system",
+        "utterance": "You can reach them by phone at 01223312598. Anything else I can help with?"
+      },
+      {
+        "role": "user",
+        "utterance": "No, that's all the information I need. Thanks!"
+      },
+      {
+        "role": "system",
+        "utterance": "Ok great, have a wonderful day!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL3450.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I am looking for information in Cambridge."
+      },
+      {
+        "role": "system",
+        "utterance": "There's a lot to do in cambridge. Are you looking for a ceratin type of attraction there?"
+      },
+      {
+        "role": "user",
+        "utterance": "I would like a train"
+      },
+      {
+        "role": "system",
+        "utterance": "Where will you be departing from and on what day?"
+      },
+      {
+        "role": "user",
+        "utterance": "I want to leave bishops stortford on Monday, going to Cambridge."
+      },
+      {
+        "role": "system",
+        "utterance": "The TR1827 arrives in Cambridge from Bishops Stortford at 14:07 is 38 minutes long and cost 10.10'lbs. Does this work for you?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes, thank you. Are there any theatre on the east side of town?"
+      },
+      {
+        "role": "system",
+        "utterance": "there are no theatre in the east"
+      },
+      {
+        "role": "user",
+        "utterance": "Can you locate me a restaurant within 1 mile of the train station."
+      },
+      {
+        "role": "system",
+        "utterance": "I'm sorry there are many choices. Can you narrow it down for me a little bit."
+      },
+      {
+        "role": "user",
+        "utterance": "Not worried about food. I actually need to find some entertainment."
+      },
+      {
+        "role": "system",
+        "utterance": "I have 5 theatres in town, but they are all in the centre of town or the south."
+      },
+      {
+        "role": "user",
+        "utterance": "No thank you that will be all"
+      },
+      {
+        "role": "system",
+        "utterance": "Okay happy i could assist."
+      },
+      {
+        "role": "user",
+        "utterance": "Wait! Can I get the postcode for your favorite entertainment venue in the east?"
+      },
+      {
+        "role": "system",
+        "utterance": "funky fun house is my favourite and its postcode is cb58hy. is that it?"
+      },
+      {
+        "role": "user",
+        "utterance": "Well, it would be but I realized my train needed to leave Bishops after 21:15. Please rebook that for me."
+      },
+      {
+        "role": "system",
+        "utterance": "Would a 21:29 be okay?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes that will be fine. Thank you!"
+      },
+      {
+        "role": "system",
+        "utterance": "is there anything else i can help you?"
+      },
+      {
+        "role": "user",
+        "utterance": "I just need a a new confirmation number, thanks."
+      },
+      {
+        "role": "system",
+        "utterance": "Sure your reference number is: PDGADKQI ."
+      },
+      {
+        "role": "user",
+        "utterance": "Thank you! Okay, NOW we've covered everything. Have a great day! Thanks again for all the help!"
+      },
+      {
+        "role": "system",
+        "utterance": "I'm glad I could help you plan your trip. If you need anything else please contact at Cambridge TownInfo centre and we'll be happy to help. Have a great day!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL1188.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I need a train to leave from cambridge after 15:30."
+      },
+      {
+        "role": "system",
+        "utterance": "Ok, lets get you set up, where are you going and on what day?"
+      },
+      {
+        "role": "user",
+        "utterance": "I will be leaving on saturday and going to london liverpool street."
+      },
+      {
+        "role": "system",
+        "utterance": "I would recommend TR4859 which leaves Cambridge at 15:59 and arrives at London Liverpool Street at 17:27."
+      },
+      {
+        "role": "user",
+        "utterance": "That sounds fine. Can you reserve 6 tickets for me please?"
+      },
+      {
+        "role": "system",
+        "utterance": "You're all booked. TR4859 for 6 people will be 79.67 GBP. Your reference number is CTETVS75 . Is there anything else I can help you with today?"
+      },
+      {
+        "role": "user",
+        "utterance": "I am looking for places to go in town. The attraction should be in the type of museum"
+      },
+      {
+        "role": "system",
+        "utterance": "There are 23 museums in cambridge. Are you interested in a particular type of one in a certain part of town?"
+      },
+      {
+        "role": "user",
+        "utterance": "Not really. Pick the best one for me!"
+      },
+      {
+        "role": "system",
+        "utterance": "I am very partial to the Cambridge Artworks museum located at 5 greens road and admission is free. Does that sound good?"
+      },
+      {
+        "role": "user",
+        "utterance": "That sounds great! What area and can I get the postcode?"
+      },
+      {
+        "role": "system",
+        "utterance": "It is located in the east and the postal code is cb13ef."
+      },
+      {
+        "role": "user",
+        "utterance": "Great, thanks, that's all I need!"
+      },
+      {
+        "role": "system",
+        "utterance": "You're welcome, glad I could help."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "SNG0719.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I'm looking for a seafood restaurant in the moderate price range."
+      },
+      {
+        "role": "system",
+        "utterance": "Sorry, there are no moderately priced seafood restaurants. Can I help you find something else instead?"
+      },
+      {
+        "role": "user",
+        "utterance": "What about Chinese?"
+      },
+      {
+        "role": "system",
+        "utterance": "There are 4 moderately priced Chinese restaurants in town. Is there a particular area you are wanting to eat in?"
+      },
+      {
+        "role": "user",
+        "utterance": "Any one of them will be fine, if you could find one available for 4 people at 18:15 on friday please."
+      },
+      {
+        "role": "system",
+        "utterance": "I have reserved a table for 4 at Jinling Noodle Bar, 11 Peas Hill in the city centre (Tel: 01223566188) on Friday at 18:15. The reference number is K9JAW7FT ."
+      },
+      {
+        "role": "user",
+        "utterance": "Thank you for your help. Have a great day!"
+      },
+      {
+        "role": "system",
+        "utterance": "Thank you for contacting Cambridge TownInfo centre. Have a wonderful day!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "SNG02250.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I am looking for a restaurant. The restaurant should be in the centre and should be in the cheap price range"
+      },
+      {
+        "role": "system",
+        "utterance": "OK, I have 15 options for you, in many cuisines. Do you have a cuisine preference, or would you like me to recommend a restaurant?"
+      },
+      {
+        "role": "user",
+        "utterance": "I don't have a preference. What would you suggest and can you provide me with the address and phone number?"
+      },
+      {
+        "role": "system",
+        "utterance": "How about the Rice House? It is located at 88 Mill Road City Centre and their number is 01223367755."
+      },
+      {
+        "role": "user",
+        "utterance": "Thanks, that's all. Good bye."
+      },
+      {
+        "role": "system",
+        "utterance": "Thank you for using our services. Is there anything else we can help you with?"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "MUL1849.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "Hi there, I'm in the centre of town and I'm bored. Can you tell me about what sorts of things to do there are around here?"
+      },
+      {
+        "role": "system",
+        "utterance": "There are museums, concert hall, cinema, and boating. What kind of attraction do you find interesting?"
+      },
+      {
+        "role": "user",
+        "utterance": "Could I have the addresses and postcodes for all of them please?"
+      },
+      {
+        "role": "system",
+        "utterance": "I can give you that information once we narrow down your interest to a few locations. What type of attraction are you looking for?"
+      },
+      {
+        "role": "user",
+        "utterance": "What do you recommend?"
+      },
+      {
+        "role": "system",
+        "utterance": "I would recommend architecture and there are many places to visit and see great architecture."
+      },
+      {
+        "role": "user",
+        "utterance": "Can I get the postcode, address of a great architecture place to visit please?"
+      },
+      {
+        "role": "system",
+        "utterance": "I would recommend old schools, located on trinity lane, post code cb21tt. Is there anything else I can help you with?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes, I need a train. I'll be departing from broxbourne on friday."
+      },
+      {
+        "role": "system",
+        "utterance": "Okay, I have 19 trains leaving Broxbourne on Friday. Do you have a specific location you're wanting to go to?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes, my destination is cambridge. I need to get there by 15:45."
+      },
+      {
+        "role": "system",
+        "utterance": "I have train TR2144 that departs at 14:32 and arrives by 15:32. Would that work for you?"
+      },
+      {
+        "role": "user",
+        "utterance": "What is the price?"
+      },
+      {
+        "role": "system",
+        "utterance": "It's 17.90 pounds per ticket. Would you like to book that train?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes I would like to book that ticket for Friday please."
+      },
+      {
+        "role": "system",
+        "utterance": "Booking was successful, the total fee is 17.89 GBP payable at the station . Reference number is : 458XMYMR ."
+      },
+      {
+        "role": "user",
+        "utterance": "Thank you, that't all I needed."
+      },
+      {
+        "role": "system",
+        "utterance": "Thank you and enjoy your visit to cambridge. Have a good day."
+      },
+      {
+        "role": "user",
+        "utterance": "Thanks again for all your help. Goodbye."
+      },
+      {
+        "role": "system",
+        "utterance": "Thank you you too"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "SSNG0207.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I Am looking for a four star guest house.."
+      },
+      {
+        "role": "system",
+        "utterance": "Yes I have several listings in different parts of the city. Do you have a price range or location preference?"
+      },
+      {
+        "role": "user",
+        "utterance": "I'll need free wifi."
+      },
+      {
+        "role": "system",
+        "utterance": "That's no problem. 18 of our lodging establishments offer free wifi. Is there a price range or location you'd prefer?"
+      },
+      {
+        "role": "user",
+        "utterance": "Not really, but I will need a room for 5 starting on Thursday. Are there any with that availability?"
+      },
+      {
+        "role": "system",
+        "utterance": "How many nights would you like to stay?"
+      },
+      {
+        "role": "user",
+        "utterance": "We'll be staying for five nights."
+      },
+      {
+        "role": "system",
+        "utterance": "I have made a booking at the acorn guest house for you. The reservation number is 0LV52R28 ."
+      },
+      {
+        "role": "user",
+        "utterance": "Thank you. Could I please get the address and phone number?"
+      },
+      {
+        "role": "system",
+        "utterance": "Yes, address is 154 chesterton road. Their phone number is 01223353888. Is there anything else I can do for you?"
+      },
+      {
+        "role": "user",
+        "utterance": "No, that will do. Thanks!"
+      },
+      {
+        "role": "system",
+        "utterance": "Have a good trip. Thank you for calling the Cambridge TownInfo Centre. Good bye."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL4866.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "i want you to recommend a place to go in the centre that is type of entertainment"
+      },
+      {
+        "role": "system",
+        "utterance": "I'm sorry there are no entertainment attractions in the centre. Is there another area or attraction type you would be interested in?"
+      },
+      {
+        "role": "user",
+        "utterance": "Okay, how about a nightclub?"
+      },
+      {
+        "role": "system",
+        "utterance": "there is none in that area. do you mind changing the area?"
+      },
+      {
+        "role": "user",
+        "utterance": "I was really hoping to find one in that area."
+      },
+      {
+        "role": "system",
+        "utterance": "I'm sorry, I was mistaken. I have 5 options for nightclubs in the centre. I like club salsa, personally."
+      },
+      {
+        "role": "user",
+        "utterance": "Could you please give me Club Salsa's address and postcode?"
+      },
+      {
+        "role": "system",
+        "utterance": "Sure, Club Salsa is located at 1 Station Road, cb12jb. Would you like any additional information?"
+      },
+      {
+        "role": "user",
+        "utterance": "I am also looking for someplace in the moderate price range, a room with free wifi."
+      },
+      {
+        "role": "system",
+        "utterance": "We have many options. Would you like to narrow it down by area or stars?"
+      },
+      {
+        "role": "user",
+        "utterance": "I would like it to be 2 stars, and a hotel."
+      },
+      {
+        "role": "system",
+        "utterance": "There are two hotels in the north that fit your needs: the ashley hotel and the lovell lodge. Do you have a preference?"
+      },
+      {
+        "role": "user",
+        "utterance": "Let's try the Lovell Lodge."
+      },
+      {
+        "role": "system",
+        "utterance": "Okay! Would you like for me to book you a room?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes please. I'll need it for 3 nights starting Sunday for 5 people."
+      },
+      {
+        "role": "system",
+        "utterance": "OK, 3 nights starting Sunday for 5 guests. Your Reference number is : DUYCGOB2 ."
+      },
+      {
+        "role": "user",
+        "utterance": "Thanks I also need a taxi to leave Club Salsa."
+      },
+      {
+        "role": "system",
+        "utterance": "Sure, will you be going back to Lovell Lodge, and at what time?"
+      },
+      {
+        "role": "user",
+        "utterance": "I would want to return by 2:45."
+      },
+      {
+        "role": "system",
+        "utterance": "Booking completed! Booked car type : white volkswagen Contact number : 07255014387 Can i help you with anything else today?"
+      },
+      {
+        "role": "user",
+        "utterance": "no thanks, that is okey for today"
+      },
+      {
+        "role": "system",
+        "utterance": "Okay, well if you need anything else you know where to find me! Have a good one! Bye!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "SNG0652.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I am looking for a cheap restaurant in the west part of town."
+      },
+      {
+        "role": "system",
+        "utterance": "There are 2 restaurants in the west part of town in the cheap price range. Would you like Italian or Vietnamese food?"
+      },
+      {
+        "role": "user",
+        "utterance": "Italian please! Can you book a table for me for 3 people? At 12:00 on Saturday?"
+      },
+      {
+        "role": "system",
+        "utterance": "I was successfully able to book you a table for 3 at 12:00 at la margherita. Your reference number is 9HCUDTJK . Would you like the address of the restaurant?"
+      },
+      {
+        "role": "user",
+        "utterance": "No, that will be all. Thanks."
+      },
+      {
+        "role": "system",
+        "utterance": "You're welcome, enjoy your meal!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "SSNG0373.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "Do you have any information on a hotel called the Acorn Guesthouse?"
+      },
+      {
+        "role": "system",
+        "utterance": "The acorn guesthouse is in the north of the city and is rated 4 stars. Their phone number is 01223353888."
+      },
+      {
+        "role": "user",
+        "utterance": "Thank you"
+      },
+      {
+        "role": "system",
+        "utterance": "Do you want me to book the guesthouse for you? I will need your day of arrival, the number of people and the number of nights."
+      },
+      {
+        "role": "user",
+        "utterance": "Yes I need booking for 3 people and 4 nights starting from saturday.?"
+      },
+      {
+        "role": "system",
+        "utterance": "The booking was unsuccessful. Would you like me to try another hotel."
+      },
+      {
+        "role": "user",
+        "utterance": "Yes please book another in the same price range. And I will need the reference number."
+      },
+      {
+        "role": "system",
+        "utterance": "You are booked into alpha-milton guest house in the moderate price range you wanted. Your reference number is 1JCGP18D . Is there anything else?"
+      },
+      {
+        "role": "user",
+        "utterance": "Thank you so much. That is all I'll need for today. Bye."
+      },
+      {
+        "role": "system",
+        "utterance": "Have a wonderful day!!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "SNG01601.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I have been involved in a car accident dispute and i do not know where to go from here"
+      },
+      {
+        "role": "system",
+        "utterance": "Contact the Parkside, Cambridge police station at 01223358966."
+      },
+      {
+        "role": "user",
+        "utterance": "Thank you very much I will call them now."
+      },
+      {
+        "role": "system",
+        "utterance": "Ok, do you require any further assistance?"
+      },
+      {
+        "role": "user",
+        "utterance": "Can I get the address as well?"
+      },
+      {
+        "role": "system",
+        "utterance": "The address to the police is Parkside, Cambridge."
+      },
+      {
+        "role": "user",
+        "utterance": "Thank you for your help."
+      },
+      {
+        "role": "system",
+        "utterance": "Before I let you go, are there any other questions that I can assist with today?"
+      },
+      {
+        "role": "user",
+        "utterance": "No that was all. Thank you"
+      },
+      {
+        "role": "system",
+        "utterance": "Okay, have a great day!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "MUL2681.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I am looking for colleges to visit while I am in town."
+      },
+      {
+        "role": "system",
+        "utterance": "There are 5 in town, but I recommend Clare College in the west. It's free to visit. Does that sound good?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes that sounds good may I have the phone number please?"
+      },
+      {
+        "role": "system",
+        "utterance": "Sure! The phone number is 01223333200. Anything else for you today?"
+      },
+      {
+        "role": "user",
+        "utterance": "I am also looking for a place to stay. Could you help with that?"
+      },
+      {
+        "role": "system",
+        "utterance": "Sure, do you have any area preferences?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yeah. Moderate price range. Internet and parking are not a priority for me."
+      },
+      {
+        "role": "system",
+        "utterance": "How about your area preference and star rating of the hotel?"
+      },
+      {
+        "role": "user",
+        "utterance": "No star preference, just as long as it's moderately priced. Thank you."
+      },
+      {
+        "role": "system",
+        "utterance": "How about A and B Guesthouse? It is moderately priced."
+      },
+      {
+        "role": "user",
+        "utterance": "I prefer hotels. Moderately priced."
+      },
+      {
+        "role": "system",
+        "utterance": "I would recommend the ashley hotel. Would you like more information?"
+      },
+      {
+        "role": "user",
+        "utterance": "I'd like one with free wifi, and could you give me the star rating?"
+      },
+      {
+        "role": "system",
+        "utterance": "The ashley hotel fits your needs and has 2 stars. Would you like a booking?"
+      },
+      {
+        "role": "user",
+        "utterance": "Not right now. Thank you for the information!"
+      },
+      {
+        "role": "system",
+        "utterance": "Not a problem! Can I help you with anything else today?"
+      },
+      {
+        "role": "user",
+        "utterance": "Nope! That will do it, thanks!"
+      },
+      {
+        "role": "system",
+        "utterance": "Thanks for using our service. Have a nice night. Bye."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL2571.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I'm looking for an expensive place to stay on the east side."
+      },
+      {
+        "role": "system",
+        "utterance": "Okay, I have found a match. The Express by Holiday Inn in Cambridge. Would you like me to book a room?"
+      },
+      {
+        "role": "user",
+        "utterance": "Does it have free wifi?"
+      },
+      {
+        "role": "system",
+        "utterance": "Yes, it has internet would you like to book a room?"
+      },
+      {
+        "role": "user",
+        "utterance": "yes for 5 nights please."
+      },
+      {
+        "role": "system",
+        "utterance": "What night and how many people are you needing this for?"
+      },
+      {
+        "role": "user",
+        "utterance": "I am needing this for Sunday for 5 people, if the booking fails could you please book for 4 nights. Also can I have the reference number?"
+      },
+      {
+        "role": "system",
+        "utterance": "Yes, let me book that for you."
+      },
+      {
+        "role": "user",
+        "utterance": "Thank you. What is the reference number? I'm also looking for places to go in town."
+      },
+      {
+        "role": "system",
+        "utterance": "OK, you're all set. Your Reference number is : P16OTKFH ."
+      },
+      {
+        "role": "user",
+        "utterance": "Thanks. I am also looking for places to go in town. I would like to visit a museum in the east area. Can you make a recommendation?"
+      },
+      {
+        "role": "system",
+        "utterance": "I have 4 museums in the east. May I suggest saint barnabas press gallery? It's free admission."
+      },
+      {
+        "role": "user",
+        "utterance": "Yes I think that will work, I need the postcode too."
+      },
+      {
+        "role": "system",
+        "utterance": "Sure! The postcode is CB13EW. Is there anything else I can do for you?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yeah,I;m high maintenance, lol. Just a taxi from Saint Barnabas to the Express hotel. I'll leave by 13:00"
+      },
+      {
+        "role": "system",
+        "utterance": "No problem at all. I have you booked in a black Ford. The contact number is 07805617119. Anything else today?"
+      },
+      {
+        "role": "user",
+        "utterance": "That's all I need. Thanks!"
+      },
+      {
+        "role": "system",
+        "utterance": "I appreciate your help. Thanks again."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "WOZ20490.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I would like a cheap restaurant that serves vietnamese food"
+      },
+      {
+        "role": "system",
+        "utterance": "I found Thanh Binh in the west part of town."
+      },
+      {
+        "role": "user",
+        "utterance": "What is the address and phone number?"
+      },
+      {
+        "role": "system",
+        "utterance": "Thanh binh can be reached at 01223 362456 and it is located at 17 magdalene street city centre."
+      },
+      {
+        "role": "user",
+        "utterance": "Thank you goodbye."
+      },
+      {
+        "role": "system",
+        "utterance": "Thank you and goodbye!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "SNG01254.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I got injured and I am looking for a hospital nearby"
+      },
+      {
+        "role": "system",
+        "utterance": "There are several hospitals in the area what department do you want?"
+      },
+      {
+        "role": "user",
+        "utterance": "Just the general information, please."
+      },
+      {
+        "role": "system",
+        "utterance": "Addenbrookes Hospital is on Hills Rd, Cambridge, in the postcode of CB20QQ. Do you need more information?"
+      },
+      {
+        "role": "user",
+        "utterance": "No, that will be all. Thank you! good bye."
+      },
+      {
+        "role": "system",
+        "utterance": "You can reach Addenbrookes Hospital is on Hills Rd, Cambridge. Postcode: CB20QQ. Telephone number 01223245151."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "SNG0258.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "Hi. I am looking for a train that goes to Cambridge on Saturday. Can you help me?"
+      },
+      {
+        "role": "system",
+        "utterance": "There are 5 trains departing from London Kings Cross station to Cambridge on Saturday. Each will take 51 minutes. Is there a specific time you would prefer to depart?"
+      },
+      {
+        "role": "user",
+        "utterance": "I would like to leave after 12:00."
+      },
+      {
+        "role": "system",
+        "utterance": "There is a train leaving London Kings Cross for Cambridge at 13:17 on Saturday. Would you like me to book it?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes, I will need to be on that train."
+      },
+      {
+        "role": "system",
+        "utterance": "Okay, how many tickets would you like?"
+      },
+      {
+        "role": "user",
+        "utterance": "I need 8 tickets."
+      },
+      {
+        "role": "system",
+        "utterance": "Your booking was successful. The total fee is 151.04 GBP and the booking number is X1NEC9S5 . Thank you again."
+      },
+      {
+        "role": "user",
+        "utterance": "Actually, I need to depart from Kings Lynn, not Kings Cross. Can you change that please?"
+      },
+      {
+        "role": "system",
+        "utterance": "TR7178 departs from kings lynn to cambridge saturday at 13:11, arriving cambridge at 13:58, would you like to book this one?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes, please book 8 tickets for that train. May I please have the reference number?"
+      },
+      {
+        "role": "system",
+        "utterance": "Your reference number is POHLZ4EY and 62.72 GBP will be due at the station. The train leaves Kings Lynn at 13:11. Can I further assist you?"
+      },
+      {
+        "role": "user",
+        "utterance": "No, thank you. That is all."
+      },
+      {
+        "role": "system",
+        "utterance": "You are welcome. Have a nice day. Bye."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL1752.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I want a train leaving on sunday."
+      },
+      {
+        "role": "system",
+        "utterance": "Yes sure. I will need your departure and arrival destinations."
+      },
+      {
+        "role": "user",
+        "utterance": "I am leaving from Stevenage going to Cambridge."
+      },
+      {
+        "role": "system",
+        "utterance": "I have 10 trains for you. What time would you like to arrive by?"
+      },
+      {
+        "role": "user",
+        "utterance": "I would like to arrive by 12:00 please."
+      },
+      {
+        "role": "system",
+        "utterance": "Okay, how about the TR7802? It departs at 09:54."
+      },
+      {
+        "role": "user",
+        "utterance": "That's fine. Could you book this for me, there will be 5 people."
+      },
+      {
+        "role": "system",
+        "utterance": "I have booked 5 tickets from Stevenage to Cambridge living on Sunday at 9:54 and arriving at 10:53. Your total fee is 51.2 GBP. Reference # is GZ0LOZQV"
+      },
+      {
+        "role": "user",
+        "utterance": "Thank you. Can you also help me find a place to stay?"
+      },
+      {
+        "role": "system",
+        "utterance": "Sure, I can help you with that. Did you have a specific area of town you were looking at?"
+      },
+      {
+        "role": "user",
+        "utterance": "I would like to find a moderately priced hotel in the center with free parking and wifi."
+      },
+      {
+        "role": "system",
+        "utterance": "I don't have anything that meets that criteria. Would you like to try a different area or price range?"
+      },
+      {
+        "role": "user",
+        "utterance": "How about one in the north?"
+      },
+      {
+        "role": "system",
+        "utterance": "Yes, there are 9 places to stay! Would you like to stay in a hotel, or in a guesthouse?"
+      },
+      {
+        "role": "user",
+        "utterance": "It doesn't matter to me. Whichever place you recommend will be fine. I'll need to book for the same people, same day, and 3 nights."
+      },
+      {
+        "role": "system",
+        "utterance": "Booking was successful.Reference number is : S9RCTPPN"
+      },
+      {
+        "role": "user",
+        "utterance": "That you, thats all I needed today."
+      },
+      {
+        "role": "system",
+        "utterance": "Ok! Have a wonderful day!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "MUL0519.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I am planning a trip to Cambridge I want more information on the primavera , do I need tickets or make seating arrangements"
+      },
+      {
+        "role": "system",
+        "utterance": "The Primavera museum is located in the centre area at 10 King S Parade. No need to purchase tickets as entrance is free. May I assist you with anything else?"
+      },
+      {
+        "role": "user",
+        "utterance": "Can I also get postcode?"
+      },
+      {
+        "role": "system",
+        "utterance": "The postcode is cb21sj. Anything else I can do for you?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes. I would like to find a train to Cambridge that leaves after 14:00."
+      },
+      {
+        "role": "system",
+        "utterance": "There are 735 trains heading to cambridge what is your departure site?"
+      },
+      {
+        "role": "user",
+        "utterance": "Stansted airport. Can I make that for thursday, too?"
+      },
+      {
+        "role": "system",
+        "utterance": "The earliest train is TR5502 and leaves at 15:17. Would you like me to book a ticket?"
+      },
+      {
+        "role": "user",
+        "utterance": "I would like to know the price please."
+      },
+      {
+        "role": "system",
+        "utterance": "The price is 23.60 pounds. Would you like to book now?"
+      },
+      {
+        "role": "user",
+        "utterance": "That's okay I don't need to book today but I think you would have solved all my questions"
+      },
+      {
+        "role": "system",
+        "utterance": "Have a great day. Please contact us again if you need additional information or would like to make that booking."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "SNG0928.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I am looking for a hotel in the expensive price range."
+      },
+      {
+        "role": "system",
+        "utterance": "There are 5 expensive hotels available. Did you have a preference as to area of the hotel?"
+      },
+      {
+        "role": "user",
+        "utterance": "No, it doesn't matter. I would like a 4 star hotel with free parking though."
+      },
+      {
+        "role": "system",
+        "utterance": "There are two, one in the west and one the centre of town."
+      },
+      {
+        "role": "user",
+        "utterance": "Could you reserve the one in the centre of town for 3 nights starting Monday? There will be 3 of us."
+      },
+      {
+        "role": "system",
+        "utterance": "Unfortunately, I wasn't able to book you for the day and time you wanted. Would another day or time be alright?"
+      },
+      {
+        "role": "user",
+        "utterance": "Okay, could you try the other one, please?"
+      },
+      {
+        "role": "system",
+        "utterance": "I couldn't book that one either. Would you like to change your criteria?"
+      },
+      {
+        "role": "user",
+        "utterance": "I would actually like to book it for 8 people, not 3."
+      },
+      {
+        "role": "system",
+        "utterance": "Sure no problem. So the hotel is huntingdon marriott hotel and your reference number for the booking is 34BAQ2WK . Is there anything else I can help?"
+      },
+      {
+        "role": "user",
+        "utterance": "That's great. I'm all set , thank you!"
+      },
+      {
+        "role": "system",
+        "utterance": "You're welcome. Glad to help! bye bye!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL3980.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I am looking for information in Cambridge."
+      },
+      {
+        "role": "system",
+        "utterance": "What type of information are you looking for? I can helpp with dining, hotels and entertainment."
+      },
+      {
+        "role": "user",
+        "utterance": "I need a train on friday going to ely from cambridge arrival by 13:00"
+      },
+      {
+        "role": "system",
+        "utterance": "I have 4 trains that meet your needs. Would you like to book tickets?"
+      },
+      {
+        "role": "user",
+        "utterance": "book for 2 people and get me the reference number"
+      },
+      {
+        "role": "system",
+        "utterance": "Booking was successful, the total fee is 8.8 GBP payable at the station . Reference number is : 8BUQLIK8 ."
+      },
+      {
+        "role": "user",
+        "utterance": "Great! I also need to have some north american food in the west part of town."
+      },
+      {
+        "role": "system",
+        "utterance": "I'm sorry, we don't have any north american restaurants in the west area. Would you like to try a different type of food?"
+      },
+      {
+        "role": "user",
+        "utterance": "Could you look again for places that serve North American food in the West."
+      },
+      {
+        "role": "system",
+        "utterance": "The only north american restaurant in the city is in the centre. Would you like more information about that?"
+      },
+      {
+        "role": "user",
+        "utterance": "How about an intalian restaurnat in the west area?"
+      },
+      {
+        "role": "system",
+        "utterance": "I have two. One is moderately priced, and one is cheap. Do you have a preference?"
+      },
+      {
+        "role": "user",
+        "utterance": "The moderately priced one will be fine. I'll need it booked for the same day, same people, and at 10:15."
+      },
+      {
+        "role": "system",
+        "utterance": "You are booked the reference number is 3ICEL34F, can I help with anything else?"
+      },
+      {
+        "role": "user",
+        "utterance": "Great that was all I needed today, thank you"
+      },
+      {
+        "role": "system",
+        "utterance": "You're very welcome! Have a great day."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "SSNG0034.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I am looking for an expensive Danish place."
+      },
+      {
+        "role": "system",
+        "utterance": "Are you looking for a Danish restaurant?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes please. In the centre of town."
+      },
+      {
+        "role": "system",
+        "utterance": "I am sorry I have no listings for that type of restaurant, is there any other type of food you would like?"
+      },
+      {
+        "role": "user",
+        "utterance": "Is there an expensive chinese restaurant in the centre?"
+      },
+      {
+        "role": "system",
+        "utterance": "Yes I was able to locate 4. Can I book a table for you?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes please,for tonight at 9 PM if possible."
+      },
+      {
+        "role": "system",
+        "utterance": "I will make a booking for you at hk fusion, but I do need to know what day and time you prefer, and for how many people."
+      },
+      {
+        "role": "user",
+        "utterance": "For four, Thursday, 11:45."
+      },
+      {
+        "role": "system",
+        "utterance": "Booking unsuccessful. Would you like to try another restaurant?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes please in the same area and price range."
+      },
+      {
+        "role": "system",
+        "utterance": "Booked at ugly duckling. Reference number: EQFGNMFY . Table will be held for 15 minutes."
+      },
+      {
+        "role": "user",
+        "utterance": "Thanks so much!"
+      },
+      {
+        "role": "system",
+        "utterance": "Is there anything else that I can book for you or assist you with for your upcoming trip?"
+      },
+      {
+        "role": "user",
+        "utterance": "That was all I needed today thank you!"
+      },
+      {
+        "role": "system",
+        "utterance": "Thank you have a good day."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "MUL0974.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "Hello! Can you tell me about the Indian restaurants you have in the center of town?"
+      },
+      {
+        "role": "system",
+        "utterance": "Sure I have many. Do you have a preference in price range?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes, I'd like a cheap one."
+      },
+      {
+        "role": "system",
+        "utterance": "In that price range, you have your choice of the Kohinoor, the Gandhi, and the Mahal of Cambridge."
+      },
+      {
+        "role": "user",
+        "utterance": "Great can I book Kohinoor for 5 people at 14:30 on tuesday?"
+      },
+      {
+        "role": "system",
+        "utterance": "Yes success! I was able to reserve all of you a table and your reference number is UM8AZ1RH ."
+      },
+      {
+        "role": "user",
+        "utterance": "Great can you also direct me to a college to visit in the same area?"
+      },
+      {
+        "role": "system",
+        "utterance": "I'd recommend Emmanuel College in the centre of town."
+      },
+      {
+        "role": "user",
+        "utterance": "Perfect. What is the phone number, address and postcode for Emmanuel College?"
+      },
+      {
+        "role": "system",
+        "utterance": "Emmanuel College is on Saint Andrews Street. The postcode is cb23ap and the phone number is 01223334200. Is there anything else I can do for you?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes, I would like to book a taxi to the restaurant to arrive in time for my reservation."
+      },
+      {
+        "role": "system",
+        "utterance": "I certainly can. Would you like to depart from Emmanuel College to go to kohinoor?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes, that's correct. I just want to arrive in time for my reservation."
+      },
+      {
+        "role": "system",
+        "utterance": "Okay, I've booked a taxi for you. The car will be a yellow Tesla and the contact number is 07472812793. What else can I help you with?"
+      },
+      {
+        "role": "user",
+        "utterance": "Nope, you have been great!"
+      },
+      {
+        "role": "system",
+        "utterance": "Thank you for using our system!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "MUL0972.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I am looking for a particular attraction, The Man on the Moon."
+      },
+      {
+        "role": "system",
+        "utterance": "Sure. The Man on the Moon is located at 2 norfolk street and their telephone number is 01223474144."
+      },
+      {
+        "role": "user",
+        "utterance": "Great, thank you for your help!"
+      },
+      {
+        "role": "system",
+        "utterance": "You're welcome, can I assist you with anything else today?"
+      },
+      {
+        "role": "user",
+        "utterance": "Are there any vegetarian restaurants with moderate cost nearby there?"
+      },
+      {
+        "role": "system",
+        "utterance": "I apologize but there aren't any vegetarian restaurants with a moderate price range in the centre area."
+      },
+      {
+        "role": "user",
+        "utterance": "How about Chinese? Is there any moderate priced Chinese places in the centre area?"
+      },
+      {
+        "role": "system",
+        "utterance": "There are three restaurants matching that search. Would you like me to book you a reservation for jinling noodle bar?"
+      },
+      {
+        "role": "user",
+        "utterance": "What about a restaurant called Frankie and Bennys?"
+      },
+      {
+        "role": "system",
+        "utterance": "frankie and bennys is an expensive Italian restaurant in the south. Would you like to book a reservation?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes, please. I need a table for 1 on Friday at 18:30, if that's available."
+      },
+      {
+        "role": "system",
+        "utterance": "I'm sorry, but they're all full up at that time. Would you like to try a different day or a different time?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes can you see if 17:30 is available for that day?"
+      },
+      {
+        "role": "system",
+        "utterance": "Your table has been booked for Friday at 17:30. The table will be reserved for 15 minutes. Your reference number is 23GYHJG6 . Is there anything else I can help with?"
+      },
+      {
+        "role": "user",
+        "utterance": "I'd also like a taxi to go from The Man on the Moon to Frankie and Benny's, arriving by 17:30. I will need the contact number and car type, please."
+      },
+      {
+        "role": "system",
+        "utterance": "Your car will be a blue bmw and the contact number is 07344209609. Is there anything else I can help you with today?"
+      },
+      {
+        "role": "user",
+        "utterance": "No, that's all. Thank you!"
+      },
+      {
+        "role": "system",
+        "utterance": "Thank you, and have a nice day!"
+      }
+    ]
+  },
+  {
+    "dialogue_id": "WOZ20275.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I am looking for a restaurant that serves Australian food and in the cheap price range."
+      },
+      {
+        "role": "system",
+        "utterance": "I'm sorry, there are no restaurants that serve australian food."
+      },
+      {
+        "role": "user",
+        "utterance": "do you have some places that serve italian ?"
+      },
+      {
+        "role": "system",
+        "utterance": "la margherita seems to fit your request."
+      },
+      {
+        "role": "user",
+        "utterance": "Can I get the address and phone number?"
+      },
+      {
+        "role": "system",
+        "utterance": "The address is 15 Magdalene Street City Centre and the phone number is 01223 315232."
+      },
+      {
+        "role": "user",
+        "utterance": "Okay, perfect. Thank you very much."
+      },
+      {
+        "role": "system",
+        "utterance": "Thank you. Goodbye."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL0226.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "Can you help me find a restaurant?"
+      },
+      {
+        "role": "system",
+        "utterance": "It would be my pleasure. What type of food are you in the mood for?"
+      },
+      {
+        "role": "user",
+        "utterance": "I would love some North American food!"
+      },
+      {
+        "role": "system",
+        "utterance": "We have one option, the gourmet burger kitchen, they are in the centre area and the pricing is expensive, can I book you?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes, just myself at 11:45 on monday please."
+      },
+      {
+        "role": "system",
+        "utterance": "I have made that reservation and your reference number is 0X0N3WV0 ."
+      },
+      {
+        "role": "user",
+        "utterance": "Thanks so much. Can you help me find a place to stay in that area as well?"
+      },
+      {
+        "role": "system",
+        "utterance": "What area are you looking to stay in?"
+      },
+      {
+        "role": "user",
+        "utterance": "The south please."
+      },
+      {
+        "role": "system",
+        "utterance": "There are a number of options. Did you have a price range in mind?"
+      },
+      {
+        "role": "user",
+        "utterance": "The price doesn't matter and I don't need free parking. I'd prefer a guesthouse."
+      },
+      {
+        "role": "system",
+        "utterance": "I recommend the aylesbray lodge guest house, it is in the moderate price range and four stars. It's on 5 mowbray road, cb17sr. Would you like me to make a bookin gfor you?"
+      },
+      {
+        "role": "user",
+        "utterance": "Not yet, do they have internet? And what is their postcode?"
+      },
+      {
+        "role": "system",
+        "utterance": "Yes they have internet and their postcode is cb17sr. Is there anything else I can help you with?"
+      },
+      {
+        "role": "user",
+        "utterance": "I also need a taxi. It should leave the guesthouse and arrive at the restaurant by 11:45 please. Please include the contact number and car type."
+      },
+      {
+        "role": "system",
+        "utterance": "Can you please give me the name of your departure and name of your desination?"
+      },
+      {
+        "role": "user",
+        "utterance": "I am leaving from the restaurant."
+      },
+      {
+        "role": "system",
+        "utterance": "Just to be clear, do you want to be picked up at the gourmet burger kitchen, or is that your destination?"
+      },
+      {
+        "role": "user",
+        "utterance": "I am leaving from the aylesbray lodge guest house to get to the gourmet burger kitchen by my reservation at 11:45. Please book."
+      },
+      {
+        "role": "system",
+        "utterance": "I also need to know when you want to leave."
+      },
+      {
+        "role": "user",
+        "utterance": "I am leaving from the aylesbray lodge guest house to get to the gourmet burger kitchen by my reservation at 11:45. Please book"
+      },
+      {
+        "role": "system",
+        "utterance": "Okay, I have you booked in a blue Audi. The contact number is 07920692950. Can I help you with anything else?"
+      },
+      {
+        "role": "user",
+        "utterance": "That is everything today."
+      },
+      {
+        "role": "system",
+        "utterance": "I was glad to assist you today."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "MUL0114.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "Hi, I need to find an expensive Chinese restaurant."
+      },
+      {
+        "role": "system",
+        "utterance": "Do you have a preference to area. There are 9 expensive Chinese restaurants."
+      },
+      {
+        "role": "user",
+        "utterance": "yes, I`d like an expensive Chinese restaurant in the area of south, thank you."
+      },
+      {
+        "role": "system",
+        "utterance": "There are 2 expensive Chinese restaurants in the south side. The Peking Restaurant is at 10 Homerton Street City Centre. Would you also like information on the second one?"
+      },
+      {
+        "role": "user",
+        "utterance": "No, but can you book me a table for one of the south side ones? 3 people on Monday for 16:30."
+      },
+      {
+        "role": "system",
+        "utterance": "Unfortunately I could not book you at that time slot at either of the expensive chinese hotels on the south side. Is there another time that would work for you?"
+      },
+      {
+        "role": "user",
+        "utterance": "How about 15:30? Are there any slots available then?"
+      },
+      {
+        "role": "system",
+        "utterance": "There is availability at the good luck chinese food takeaway and you have a reservation booked. The reference number is W06BBN75 ."
+      },
+      {
+        "role": "user",
+        "utterance": "Alright. Now can you help me find a place to stay? I'd like the stick to the same price range as the restaurant, but I also need free WiFi."
+      },
+      {
+        "role": "system",
+        "utterance": "There are 5 different hotels that fit this. They all have free internet and also parking. Did you have a certain area in town?"
+      },
+      {
+        "role": "user",
+        "utterance": "No, I do not have a certain area."
+      },
+      {
+        "role": "system",
+        "utterance": "How about the Lensfield Hotel? It's also in the south. I can book this for you if you'd like."
+      },
+      {
+        "role": "user",
+        "utterance": "I need a hotel that has a star rating of three, does the Lensfield Hotel fit into that?"
+      },
+      {
+        "role": "system",
+        "utterance": "It does have a 3 star rating, and free wifi and parking, would you like to book this hotel?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes go ahead can I please get the phone number as well?"
+      },
+      {
+        "role": "system",
+        "utterance": "The phone number is 01223355017. When would you like to stay, and for how many nights and people will the booking be?"
+      },
+      {
+        "role": "user",
+        "utterance": "I also need a taxi between the two places."
+      },
+      {
+        "role": "system",
+        "utterance": "What time do you need the taxi, and do you need it from the restaurant or the hotel?"
+      },
+      {
+        "role": "user",
+        "utterance": "From the restaurant by the booked time."
+      },
+      {
+        "role": "system",
+        "utterance": "Yes I have booked you a taxi and a blue Honda will be picking you up to arrive by 15:30. The contact number for the taxi is 07711738338."
+      },
+      {
+        "role": "user",
+        "utterance": "Thank you very much for all your help."
+      },
+      {
+        "role": "system",
+        "utterance": "Welcome. Is there anything else I can do for you today?"
+      },
+      {
+        "role": "user",
+        "utterance": "No thank you, I believe that does it. Thanks again."
+      },
+      {
+        "role": "system",
+        "utterance": "You're welcome. Good-bye."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "PMUL4502.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I would like a hotel while in cambridge. It doesn't need parking or internet."
+      },
+      {
+        "role": "system",
+        "utterance": "We have a few choices to pick from, any preferences on pricing or area?"
+      },
+      {
+        "role": "user",
+        "utterance": "The price doesn't matter are there any 3 star places available?"
+      },
+      {
+        "role": "system",
+        "utterance": "the lensfield hotel is a 3 star hotel in the south and gonville hotel is a 3 star hotel in the centre"
+      },
+      {
+        "role": "user",
+        "utterance": "What is the price range and phone number of the gonville hotel?"
+      },
+      {
+        "role": "system",
+        "utterance": "The phone number is 01223366611. It is expensive."
+      },
+      {
+        "role": "user",
+        "utterance": "Thanks! I also want to ride on a boat, is that something you can help with? I would like to do this in the south area of town."
+      },
+      {
+        "role": "system",
+        "utterance": "No boats in that area, is there another location you have in mind?"
+      },
+      {
+        "role": "user",
+        "utterance": "Hmmm...how about a nightclub, instead?"
+      },
+      {
+        "role": "system",
+        "utterance": "There is the place their address is 22 sidney street and number is 01223324600. Is there anything else I can help you with?"
+      },
+      {
+        "role": "user",
+        "utterance": "Was there an entrance fee to that nightclub?"
+      },
+      {
+        "role": "system",
+        "utterance": "The entrance fee is not available. Is there anything else I can help you with today?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes, I also need a taxi. I need to leave the hotel by 07:30."
+      },
+      {
+        "role": "system",
+        "utterance": "Okay, I've got you book in a black lexus with Contact number 07490949646."
+      },
+      {
+        "role": "user",
+        "utterance": "Thank you so much. That's all I need for today. Good-bye."
+      },
+      {
+        "role": "system",
+        "utterance": "Ok. I hope you enjoy your trip."
+      }
+    ]
+  },
+  {
+    "dialogue_id": "SSNG0345.json",
+    "turns": [
+      {
+        "role": "user",
+        "utterance": "I'm looking for a guest house that offers free parking."
+      },
+      {
+        "role": "system",
+        "utterance": "I have located several guesthouses with free parking. Can you tell me the area you would like to stay in and the price range? That would help narrow our search."
+      },
+      {
+        "role": "user",
+        "utterance": "Sure. I would like it to be in the south and in the expensive price range."
+      },
+      {
+        "role": "system",
+        "utterance": "I'm sorry, there are no matched in the South in that price range. The South only has moderate and cheap."
+      },
+      {
+        "role": "user",
+        "utterance": "i will take a moderate guest house with parking then."
+      },
+      {
+        "role": "system",
+        "utterance": "I would like to recommend aylesbray lodge guest house, would that be alright with you?"
+      },
+      {
+        "role": "user",
+        "utterance": "Yes, five people four nights, starting from Monday on."
+      },
+      {
+        "role": "system",
+        "utterance": "That wasn't available but I booked you at the Bridge Guest House. It has everything you were looking for. The reference number is 1AMM7M53 ."
+      },
+      {
+        "role": "user",
+        "utterance": "Thank you, that is all."
+      },
+      {
+        "role": "system",
+        "utterance": "Okay enjoy your stay."
+      }
+    ]
+  }
+]

@@ -15,8 +15,6 @@ venv/
 .ipynb_checkpoints/
 
 # Data & model artifacts
-data/dialogstudio_modified/
-data/annotations/
 models/finetuning/checkpoints/
 models/eval/results/
 *.ckpt
